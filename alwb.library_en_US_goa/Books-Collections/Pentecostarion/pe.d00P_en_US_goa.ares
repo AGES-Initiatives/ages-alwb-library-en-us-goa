@@ -24,7 +24,7 @@ pePA.Key0102.incipit = ""
 pePA.Key0102.text = //oc.m6.d1_en_US_goa.ocVE.Aposticha1.text
 
 pePA.ChristIsRisen.mode = misc_en_US_goa.Mode5
-pePA.ChristIsRisen.incipit = "Christ is risen from the"
+pePA.ChristIsRisen.incipit = "Christ is risen"
 pePA.ChristIsRisen.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs He has granted life."
 pePA.ChristIsRisen1a.incipit = "Christ is risen from the"
 pePA.ChristIsRisen1a.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs..."

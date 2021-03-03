@@ -203,7 +203,7 @@ fbPresveiaisKyrieTonAgion = ""
 enarxis01.incipit = ""
 enarxis01 = ""
 
-enarxis02.incipit = "Blessed is the Kingdom of"
+enarxis02.incipit = "Blessed is the Kingdom"
 enarxis02 = "Blessed is the Kingdom of the Father and of the Son and of the Holy Spirit, now and forever and to the ages of ages."
 
 enarxis03.incipit = ""
@@ -240,7 +240,7 @@ pet05 = "For pious and Orthodox Christians, let us pray to the Lord."
 pet06.incipit = "For our Archbishop (Name), for"
 pet06 = "For our Archbishop (Name), for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 
-pet06a.incipit = "For" "
+pet06a.incipit = "For" 
 pet06a = "For" // supplement with client specific rank and name
 
 pet06b.incipit = "for the honorable presbyterate, for"
@@ -311,13 +311,13 @@ pet21 = "Again we pray for mercy, life, peace, health, salvation, protection, fo
 pet21a.incipit = ""
 pet21a = ""
 
-pet21b.incipit = "" "
+pet21b.incipit = ""
 pet21b = "" // for baptism
 
-pet21c.incipit = "" "
+pet21c.incipit = ""
 pet21c = "" // for wedding
 
-pet21d.incipit = "" "
+pet21d.incipit = ""
 pet21d = "" // for unction
 
 pet21p.incipit = ""
@@ -584,7 +584,7 @@ petMonastery22 = ""
 petMonastery23.incipit = ""
 petMonastery23 = ""
 
-petOrdination01a.incipit = "" "
+petOrdination01a.incipit = ""
 petOrdination01a = "" // supplement with client specific rank and name
 petOrdination01b.incipit = ""
 petOrdination01b = ""
@@ -1030,7 +1030,7 @@ exc28a = "For You are He who blesses and sanctifies all things, Christ our God, 
 exc29.incipit = ""
 exc29 = ""
 
-epi01a.incipit = "The reading is from ""
+epi01a.incipit = "The reading is from "
 epi01a = "The reading is from " // leave blank in Greek
 
 epi01b.incipit = ""
@@ -1063,7 +1063,7 @@ gos05 = ""
 otr01a.incipit = "The reading is from "
 otr01a = "The reading is from "
 
-otr01b.incipit = "" "
+otr01b.incipit = ""
 otr01b = "" // leave blank in English
 
 verse_Angels.incipit = ""
