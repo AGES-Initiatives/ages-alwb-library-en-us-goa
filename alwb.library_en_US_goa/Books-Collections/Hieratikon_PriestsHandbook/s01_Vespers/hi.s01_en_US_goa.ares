@@ -19,6 +19,8 @@ hiVE.R1111 = ""
 hiVE.R1112 = ""
 hiVE.R1113 = ""
 
+hiVE.Key1100.title = ""
+hiVE.Key1100.text = properties_en_US_goa.media.key
 hiVE.Key1101.title = ""
 hiVE.Key1101.text = ""
 hiVE.Key1101.exclamation = prayers_en_US_goa.exc01
