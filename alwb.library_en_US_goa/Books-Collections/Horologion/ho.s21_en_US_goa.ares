@@ -17,6 +17,7 @@ hoPrayer.Key006_2.text = ""
 hoPrayer.Key006_3.text = ""
 
 hoPrayer.title = "PRAYERS OF HOLY COMMUNION"
+hoPrayer.note1 = //"The selection and text of the following prayers may be different from what is used in your parish."
 
 hoPrayer.Key011.title = ""
 hoPrayer.Key011.poet = ""
