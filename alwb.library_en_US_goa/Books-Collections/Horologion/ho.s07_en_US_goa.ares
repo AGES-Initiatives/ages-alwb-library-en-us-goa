@@ -31,17 +31,21 @@ hoTY.Key0501.text = ""
 hoLI.Antiphon1.text = "Through the intercessions of the Theotokos, Savior, save us."
 
 hoLI.Antiphon21.text = "Save us, O Son of God,"
+hoLI.Antiphon2s.incipit = "risen from the dead…"
 hoLI.Antiphon2s.text = "risen from the dead."
+hoLI.Antiphon2w.incipit = "Who are wondrous in Your saints…"
 hoLI.Antiphon2w.text = "Who are wondrous in Your saints."
 hoLI.Antiphon22.text = "We sing to You, Alleluia."
 
+hoLI.EntranceHymn.incipit = "Come, let us worship…"
 hoLI.EntranceHymn.text = "Come, let us worship and bow down before Christ." //in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = "…"
+hoLI.EntranceHymn2s.incipit = hoLI.Antiphon2s.incipit
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
-hoLI.EntranceHymn2w.incipit = "…"
+hoLI.EntranceHymn2w.incipit = hoLI.Antiphon2w.incipit
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
 hoLI.TrisagiosHymn.title = "THE TRISAGION HYMN"
+hoLI.TrisagiosHymn.incipit = "Holy God…"
 hoLI.TrisagiosHymn.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
 hoLI.TrisagiosHymn1.text = "Holy God."
 hoLI.TrisagiosHymn2.text = "Holy Mighty."
@@ -54,6 +58,7 @@ hoLI.MM.TrisagiosHymnBimatos.text = properties_en_US_goa.media.key
 hoLI.TrisagiosHymnDynamis.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
 
 hoLI.OsoiEisChriston.title = "INSTEAD OF HOLY GOD"
+hoLI.OsoiEisChriston.incipit = "You who have been baptized…"
 hoLI.OsoiEisChriston.text = "You who have been baptized into Christ have put on Christ, Alleluia."
 hoLI.OsoiEisChriston1.text = "You who have been baptized."
 hoLI.OsoiEisChriston2.text = "Into Christ."
@@ -63,6 +68,7 @@ hoLI.MM.OsoiEisChristonBimatos.text = properties_en_US_goa.media.key
 hoLI.OsoiEisChristonDynamis.text = "You who have been baptized into Christ have put on Christ, Alleluia."
 
 hoLI.TonStavronSou.title = "INSTEAD OF HOLY GOD"
+hoLI.TonStavronSou.incipit = "We venerate Your Cross…"
 hoLI.TonStavronSou.text = "We venerate Your Cross, O Master, and we glorify Your Holy Resurrection."
 hoLI.TonStavronSou1.text = "We venerate Your Cross."
 hoLI.TonStavronSou2.text = "O Master."

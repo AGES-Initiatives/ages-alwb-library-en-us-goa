@@ -19,6 +19,7 @@ psMA.magnificat.v6.text = ""
 
 psLI.aftercommunion.title = ""
 psLI.aftercommunion.v1.info = ps_en_US_goa.psa112.v2.number //"112:2"
+psLI.aftercommunion.v1.incipit = "Blessed be the name of the Lord…"
 psLI.aftercommunion.v1.text = "Blessed be the name of the Lord, from this time forth and to the ages."
 psLI.aftercommunion.v1a.info = ps_en_US_goa.psa112.v2.number //"112:2"
 psLI.aftercommunion.v1a.text = "Blessed be the name of the Lord,"
