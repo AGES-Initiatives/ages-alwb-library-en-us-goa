@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = properties_en_US_goa
 
 version.designation = "GOA"
+version.name = "Greek Orthodox Archdiocese of America."
 version.translator = "Translated by "
 
 version.notice1 = "Unless otherwise indicated, the texts of the prayers and hymns of the Divine Liturgy are from:"
