@@ -244,8 +244,8 @@ pet06b = "for the honorable presbyterate, for the diaconate in Christ, and for a
 pet07L.incipit = "…"
 pet07L = ""
 
-pet07S.incipit = "For our country, for the…"
-pet07S = "For our country, for the president, and for all in public service, let us pray to the Lord."
+pet07S.incipit = "For our country…"
+pet07S = "For our country, for the president, and for all in public service, let us pray to the Lord. "
 
 pet07Sa.incipit = "…"
 pet07Sa = ""
@@ -253,26 +253,29 @@ pet07Sa = ""
 pet08.incipit = "For this city, and for…"
 pet08 = "For this city, and for every city and land, and for the faithful who live in them, let us pray to the Lord."
 
-pet09.incipit = "For favorable weather, for an…"
+pet08_GOA.incipit = "For the Great and Holy Church…"
+pet08_GOA = "For the Great and Holy Church of Christ, for our Holy Archdiocese, for this city and parish, for every city and land, and for the faithful who live in them, let us pray to the Lord."
+
+pet09.incipit = "For favorable weather…"
 pet09 = "For favorable weather, for an abundance of the fruits of the earth, and for peaceful times, let us pray to the Lord."
 
-pet10.incipit = "For those who travel by…"
+pet10.incipit = "For those who travel…"
 pet10 = "For those who travel by land, sea, and air, for the sick, the suffering, the captives and for their salvation, let us pray to the Lord."
 
-pet11.incipit = "For our deliverance from all…"
-pet11 = "For our deliverance from all affliction, wrath, danger, and necessity, let us pray to the Lord."
-pet11_coronavirus1.incipit = "For our deliverance from all…"
+pet11.incipit = "For our deliverance…"
+pet11 = "For our deliverance from all affliction, wrath, danger, and distress, let us pray to the Lord."
+pet11_coronavirus1.incipit = "For our deliverance…"
 pet11_coronavirus1 = "For our deliverance from all affliction, wrath, danger and distress, and from the peril of the coronavirus against us, let us pray to the Lord."
-pet11_coronavirus2.incipit = "For our brethren, those who…"
+pet11_coronavirus2.incipit = "For our brethren…"
 pet11_coronavirus2 = "For our brethren, those who lead the fight against the coronavirus, the doctors, the medical workers and the scientists, let us pray to the Lord."
 
-pet12.incipit = "Help us, save us, have…"
+pet12.incipit = "Help us, save us…"
 pet12 = "Help us, save us, have mercy on us, and protect us, O God, by Your grace."
 
-pet13.incipit = "Commemorating our most holy, pure…"
+pet13.incipit = "Commemorating our most holy…"
 pet13 = "Commemorating our most holy, pure, blessed, and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commend ourselves and one another and our whole life to Christ our God."
 
-pet14.incipit = "Again and again, in peace…"
+pet14.incipit = "Again and again…"
 pet14 = "Again and again, in peace, let us pray to the Lord." // Short Litany
 
 pet15.incipit = "Let us all say with…"
