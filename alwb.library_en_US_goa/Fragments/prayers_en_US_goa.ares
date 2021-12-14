@@ -31,10 +31,10 @@ DefteProskinisomen3.incipit = "…"
 DefteProskinisomen3 = ""
 
 DiEfchonDespotou.incipit = "Through the prayers of our…"
-DiEfchonDespotou.text = "Through the prayers of our holy Master, Lord Jesus Christ, our God, have mercy on us [and save us]."
+DiEfchonDespotou.text = "Through the prayers of our holy Master, Lord Jesus Christ, our God, have mercy on us and save us."
 
 DiEfchonPateron.incipit = "Through the prayers of our…"
-DiEfchonPateron.text = "Through the prayers of our holy fathers, Lord Jesus Christ, our God, have mercy on us [and save us]."
+DiEfchonPateron.text = "Through the prayers of our holy fathers, Lord Jesus Christ, our God, have mercy on us and save us."
 
 DoxaPatri.incipit = "Glory to the Father and…"
 DoxaPatri.text = "Glory to the Father and to the Son and to the Holy Spirit."
@@ -236,7 +236,7 @@ pet06.incipit = "For our Archbishop (Name), for…"
 pet06 = "For our Archbishop (Name), for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 
 pet06a.incipit = "For…" 
-pet06a = "For" // supplement with client specific rank and name
+pet06a = "For " // supplement with client specific rank and name
 
 pet06b.incipit = "for the honorable presbyterate, for…"
 pet06b = "for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
@@ -250,11 +250,8 @@ pet07S = "For our country, for the president, and for all in public service, let
 pet07Sa.incipit = "…"
 pet07Sa = ""
 
-pet08.incipit = "For this city, and for…"
-pet08 = "For this city, and for every city and land, and for the faithful who live in them, let us pray to the Lord."
-
-pet08_GOA.incipit = "For the Great and Holy Church…"
-pet08_GOA = "For the Great and Holy Church of Christ, for our Holy Archdiocese, for this city and parish, for every city and land, and for the faithful who live in them, let us pray to the Lord."
+pet08.incipit = "For the Great and Holy Church…"
+pet08 = "For the Great and Holy Church of Christ, for our Holy Archdiocese, for this city and parish, for every city and land, and for the faithful who live in them, let us pray to the Lord."
 
 pet09.incipit = "For favorable weather…"
 pet09 = "For favorable weather, for an abundance of the fruits of the earth, and for peaceful times, let us pray to the Lord."
@@ -290,17 +287,20 @@ pet17 = "Have mercy on us, O God, according to Your great mercy, we pray You, he
 pet18.incipit = "…"
 pet18 = ""
 
-pet19S.incipit = "Again we pray for our…"
+pet19S.incipit = "Again we pray for our Archbishop…"
 pet19S = "Again we pray for our Archbishop (Name)."
 pet19Sa.incipit = "Again we pray for…"
 pet19Sa = "Again we pray for"
 
 pet19a.incipit = "Again we pray for…"
 pet19a = "Again we pray for"
-pet19b.incipit = "and all our brotherhood in…"
+pet19b.incipit = "and all our brotherhood…"
 pet19b = "and all our brotherhood in Christ."
 
-pet20.incipit = "Again we pray for our…"
+pet19m.incipit = "Again we pray for…" //for monastery
+pet19m = "Again we pray for"
+
+pet20.incipit = "Again we pray for our brethren…"
 pet20 = "Again we pray for our brethren: the priests, the hieromonks, the hierodeacons, the monastics, and all our brotherhood in Christ."
 
 pet21.incipit = "Again we pray for mercy…"
