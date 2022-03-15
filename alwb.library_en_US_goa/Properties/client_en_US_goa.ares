@@ -45,7 +45,7 @@ cl.Kontakion1.mode =
 cl.Kontakion1.melody = 
 cl.Kontakion1.text = "(Kontakion for the parish church)"
 
-cl.conVE.SticBoth.name = "of (name of the church),"
+cl.conVE.SticBoth.churchname.text = "of (name of the church),"
 cl.consecration.name = "(name of the church);"
 
 cl.localpatronsaint2.supplication = "(of the chapel);"
