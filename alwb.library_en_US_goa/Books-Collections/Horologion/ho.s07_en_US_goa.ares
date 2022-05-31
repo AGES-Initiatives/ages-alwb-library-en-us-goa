@@ -4,9 +4,9 @@ hoTY.title = ""
 
 R01 = ""
 
-hoLI.OnlyBegotten.title = "Only begotten."
-hoLI.OnlyBegotten.incipit = "Only begotten Son…"
-hoLI.OnlyBegotten.text = "Only begotten Son and Logos of God, being immortal, You condescended for our salvation to take flesh from the holy Theotokos and ever-virgin Mary and, without change, became man. Christ, our God, You were crucified and conquered death by death. Being one of the Holy Trinity, glorified with the Father and the Holy Spirit: Save us."
+hoLI.OnlyBegotten.title = "Only-begotten."
+hoLI.OnlyBegotten.incipit = "Only-begotten Son…"
+hoLI.OnlyBegotten.text = "Only-begotten Son and Logos of God, being immortal, You condescended for our salvation to take flesh from the holy Theotokos and ever-virgin Mary and, without change, became man. Christ, our God, You were crucified and conquered death by death. Being one of the Holy Trinity, glorified with the Father and the Holy Spirit: Save us."
 
 //Beatitudes
 hoTY.Key0200.text = "" //for media for beatitudes
