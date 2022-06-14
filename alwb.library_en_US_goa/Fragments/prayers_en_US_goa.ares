@@ -31,7 +31,7 @@ DefteProskinisomen3.incipit = "…"
 DefteProskinisomen3 = ""
 
 DiEfchonDespotou.incipit = "Through the prayers of our…"
-DiEfchonDespotou.text = "Through the prayers of our holy Master, Lord Jesus Christ, our God, have mercy on us and save us."
+DiEfchonDespotou.text = "Through the prayers of our holy master, Lord Jesus Christ, our God, have mercy on us and save us."
 
 DiEfchonPateron.incipit = "Through the prayers of our…"
 DiEfchonPateron.text = "Through the prayers of our holy fathers, Lord Jesus Christ, our God, have mercy on us and save us."
@@ -257,7 +257,7 @@ pet08.incipit = "For this city…"
 pet08 = "For this city, and for every city and land, and for the faithful who live in them, let us pray to the Lord."
 
 pet08_goa.incipit = "For the Great and Holy Church…"
-pet08_goa = "For the Great and Holy Church of Christ, for our Holy Archdiocese, for this Holy Metropolis, for this city and parish, for every city and land, and for the faithful who live in them, let us pray to the Lord."
+pet08_goa = "For the Great and Holy Church of Christ, for our Holy Archdiocese, [for this Holy Metropolis,] for this city and parish, for every city and land, and for the faithful who live in them, let us pray to the Lord."
 
 pet09.incipit = "For favorable weather…"
 pet09 = "For favorable weather, for an abundance of the fruits of the earth, and for peaceful times, let us pray to the Lord."
@@ -962,8 +962,8 @@ exc12 = ""
 exc13.incipit = "…"
 exc13 = ""
 
-exc14.incipit = "…"
-exc14 = ""
+exc14.incipit = "Blessed and glorified…"
+exc14 = "Blessed and glorified be the majesty of Your kingdom, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
 exc15.incipit = "…"
 exc15 = ""
@@ -983,8 +983,8 @@ exc18 = "Arise."
 exc19.incipit = "Let us be attentive…"
 exc19 = "Let us be attentive."
 
-exc20.incipit = "For Thine is the Kingdom…"
-exc20 = "For Thine is the Kingdom and the power and the glory, of the Father and of the Son and of the Holy Spirit, now and forever and to the ages of ages."
+exc20.incipit = "For Yours is the kingdom…"
+exc20 = "For Yours is the kingdom and the power and the glory, of the Father and the Son and the Holy Spirit, now and forever and to ages of ages."
 
 exc22.incipit = "…"
 exc22 = ""
@@ -1020,7 +1020,7 @@ epi01b.incipit = "…"
 epi01b = ""
 
 epi02.incipit = "Peace be with you…"
-epi02 = "Peace be with you."
+epi02 = "Peace be with you the reader."
 
 epi03.incipit = "…"
 epi03 = ""

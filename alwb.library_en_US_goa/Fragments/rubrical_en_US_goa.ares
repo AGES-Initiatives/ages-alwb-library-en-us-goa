@@ -16,6 +16,8 @@ BeginMatins = ""
 
 BeginVespers = ""
 
+BlessingWithTheCross = "(blessing with the cross)"
+
 ChoirLeftBegins = ""
 
 ChoirRightBegins = ""
@@ -83,6 +85,8 @@ OrAccordingToOlderPractice = ""
 Read = ""
 
 RelaxedFish = ""
+
+SlowlyFromWithinTheAltar = ""
 
 Sung = ""
 
