@@ -111,7 +111,7 @@ cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After
 cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Gospel reading here.)"
 cl.eu.presanctified.R006 = "(If there is to be an Epistle and/or Gospel reading, find them in the insert, then come back to this place in the service.)"
 
-cl.ho.s03.R001 = "(Currently in the GOA, the \"ektenia\" litany is omitted.)"
+cl.ho.s03.R001 = "(The \"ektenia\" litany has been omitted.)"
 cl.ho.s06.R001 = "If the Ninth Hour is to be appended, the dismissal of the Sixth Hour is omitted, and the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
 
 cl.ho.s09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
@@ -119,7 +119,7 @@ cl.ho.s09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediate
 cl.ho.s10.R001 = "If preceded by the Ninth Hour, Vespers begins without \"Blessed is our God…\""
 cl.ho.s10.R002 = "After the Peace Litany and the exclamation comes the reading of the appointed Kathisma of the Psalter. In parishes today it is customary to omit the recitation of the Psalter except on festal Vespers and at Presanctified Liturgy. Many will also keep the order of reciting the First Kathisma at vespers on Saturday evening."
 cl.ho.s10.R003 = "The appointed Psalms are offered here on separate pages for those who wish to include them."
-cl.ho.s10.R004 = "(Currently in the GOA, the \"ektenia\" litany is omitted.)"
+cl.ho.s10.R004 = "(The \"ektenia\" litany has been omitted.)"
 
 cl.ho.s23.R001 = "In many monasteries and churches, the Canon of the Paraklesis is chanted without the Heirmoi (except perhaps in Ode ix of Small Paraklesis, in order to make an even number of troparia and thus to avoid repeating one.)"
 cl.ho.s23.R002 = "(The Heirmos may be omitted.)"
@@ -128,9 +128,9 @@ cl.ho.s23.R003 = "(The Antiphon may be omitted, in which case we immediately sin
 cl.hw.synaxarion.rubric = ""
 
 cl.LI.R001 = "An optional alternative to the Antiphons are the Typika (Psalms 102 and 145), and the Beatitudes with the appointed troparia, which are provided here."
-cl.LI.R002 = "(Currently in the GOA, the litanies of Supplication and for the Catechumens and the First Prayer of the Faithful are omitted.)"
-cl.LI.R003 = "(Currently in the GOA, the response is:)"
-cl.LI.R004 = "(Currently in the GOA, Alleluia is sung thrice without verses. The verses may be found in the Liturgy - Variable Parts of the day.)"
+cl.LI.R002 = "(The litanies of Supplication and for the Catechumens and the First Prayer of the Faithful have been omitted.)"
+cl.LI.R003 = "(The preferred response is:)"
+cl.LI.R004 = "(Alleluia is sung thrice. Verses may be found in the Liturgy - Variable Parts of the day.)"
 
 cl.me.m01.d06.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory be to God…\""
 cl.me.m02.d02.R001 = "In Ode ix, if only the canon of the feast will be sung with its Megalynaria, then we do not sing the Magnificat nor Ode ix of the Resurrectional canon. However, if the correct order is kept, then we sing only as many festal Megalynaria as needed for the number of troparia of the canon of the feast."
