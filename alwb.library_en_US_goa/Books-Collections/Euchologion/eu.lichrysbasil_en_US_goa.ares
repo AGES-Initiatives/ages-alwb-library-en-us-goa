@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = eu.lichrysbasil_en_US_goa
 
-euLI.notice = properties_en_US_goa.version.notice1
+euLI.notice = properties_en_US_goa.version.notice2
 euLI.copyright = properties_en_US_goa.version.copyright3
 euLI.title = "THE LITURGY OF ST. JOHN CHRYSOSTOM"
 euLI.basil.copyright = ""
-euLI.basil.title = ""
+euLI.basil.title = "THE LITURGY OF ST. BASIL THE GREAT"
 
 // Part 01 Enarxis
 euLI.Key0100.title = ""
