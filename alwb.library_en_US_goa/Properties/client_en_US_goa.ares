@@ -31,6 +31,10 @@ cl.bishop2.fimi.text = ""
 cl.double_commemoration.bishop1and2 = ""
 cl.fimi.bishop1 = ""
 
+//Institutional petition
+cl.institution.pet08.incipit = "For…"
+cl.institution.pet08.text = "(Use for institutions, e.g. Holy Cross."
+
 cl.localpatronsaint1.supplication = "(local patron saint);"
 cl.localpatronsaint1.dismissal = "(local patron saint);"
 cl.localpatronsaint1.greatcompline = "(local patron saint), intercede for us sinners."
