@@ -3,19 +3,6 @@ A_Resource_Whose_Name = liturgical.verses_en_US_goa
 psVE.breadhymn.v1.info = ps_en_US_goa.psa33.v11.number //"33:11"
 psVE.breadhymn.v1.text = "The wealthy have become poor and gone hungry, but those who seek the Lord shall not lack any good thing."
 
-psMA.magnificat.title = ""
-psMA.magnificat.v1.info = //ps_en_US_goa.bode9_mag.v1.number
-psMA.magnificat.v1.text = ""
-psMA.magnificat.v2.info = //ps_en_US_goa.bode9_mag.v2.number
-psMA.magnificat.v2.text = ""
-psMA.magnificat.v3.info = //ps_en_US_goa.bode9_mag.v3.number
-psMA.magnificat.v3.text = ""
-psMA.magnificat.v4.info = //ps_en_US_goa.bode9_mag.v4.number
-psMA.magnificat.v4.text = ""
-psMA.magnificat.v5.info = //ps_en_US_goa.bode9_mag.v5.number
-psMA.magnificat.v5.text = ""
-psMA.magnificat.v6.info = //ps_en_US_goa.bode9_mag.v6.number
-psMA.magnificat.v6.text = ""
 
 psLI.aftercommunion.title = ""
 psLI.aftercommunion.v1.info = ps_en_US_goa.psa112.v2.number //"112:2"
