@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d121_en_US_goa
 
-peDA.commemoration.full = "" //full title of day
-peDA.commemoration.short = ""
-peDA.commemoration.name = ""
-peDA.insert1 = "" //for use in petitions and dismissal
-peDA.insert2 = "" //for use in petitions and dismissal
-peDA.note = ""
-peHO.daytitle = ""
-peHO.commemorations = ""
-peHO.description1 = ""
-peHO.description2 = ""
-peHO.note1 = ""
-peHO.note2 = ""
+//peDA.commemoration.full = "" //full title of day
+//peDA.commemoration.short = ""
+//peDA.commemoration.name = ""
+//peDA.insert1 = "" //for use in petitions and dismissal
+//peDA.insert2 = "" //for use in petitions and dismissal
+//peDA.note = ""
+//peHO.daytitle = ""
+//peHO.commemorations = ""
+//peHO.description1 = ""
+//peHO.description2 = ""
+//peHO.note1 = ""
+//peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goa.dis00.pentecost
 
 pePE.Prayer1.rubric = "As the faithful kneel, the Priest, also kneeling at the Royal Doors and facing the people, reads the first Prayers aloud."
