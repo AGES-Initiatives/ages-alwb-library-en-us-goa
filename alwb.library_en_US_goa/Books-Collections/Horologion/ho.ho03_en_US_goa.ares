@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = ho.s03_en_US_goa
+A_Resource_Whose_Name = ho.ho03_en_US_goa
 
 hoMA.title = "SERVICE OF MATINS"
 hoMA.MatinsOrdinary.title = ""
@@ -195,7 +195,7 @@ hoMA.ExapMon1.text = //he.a.m3_en_US_goa.heAU.OOuranonToisAstrois.text
 hoMA.ExapMonTh.mode = miscellanea_en_US_goa.misc.Mode3
 hoMA.ExapMonTh.melody = //he.a.m3_en_US_goa.heAU.OOuranonToisAstrois.name
 hoMA.ExapMonTh.incipit = "…"
-hoMA.ExapMonTh.text = //ho.s23_en_US_goa.hoCA.Exaposteilarion2.text
+hoMA.ExapMonTh.text = //ho.ho23_en_US_goa.hoCA.Exaposteilarion2.text
 
 hoMA.ExapTueTitle = ""
 hoMA.ExapTue1.mode = miscellanea_en_US_goa.misc.Mode3
@@ -206,7 +206,7 @@ hoMA.ExapTue1.text = //da.d3_en_US_goa.daMA.Exaposteilarion1.text
 hoMA.ExapTueTh.mode = miscellanea_en_US_goa.misc.Mode3
 hoMA.ExapTueTh.melody = //he.a.m3_en_US_goa.heAU.OOuranonToisAstrois.name
 hoMA.ExapTueTh.incipit = "…"
-hoMA.ExapTueTh.text = //ho.s23_en_US_goa.hoCA.Exaposteilarion2.text
+hoMA.ExapTueTh.text = //ho.ho23_en_US_goa.hoCA.Exaposteilarion2.text
 
 hoMA.ExapWedFriTitle = ""
 hoMA.ExapWedFri1.mode = miscellanea_en_US_goa.misc.Mode2

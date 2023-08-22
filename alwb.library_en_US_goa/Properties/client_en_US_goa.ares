@@ -115,19 +115,19 @@ cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After
 cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Gospel reading here.)"
 cl.eu.presanctified.R006 = "(If there is to be an Epistle and/or Gospel reading, find them in the insert, then come back to this place in the service.)"
 
-cl.ho.s03.R001 = "(The \"ektenia\" litany has been omitted.)"
-cl.ho.s06.R001 = "If the Ninth Hour is to be appended, the dismissal of the Sixth Hour is omitted, and the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
+cl.ho.ho03.R001 = "(The \"ektenia\" litany has been omitted.)"
+cl.ho.ho06.R001 = "If the Ninth Hour is to be appended, the dismissal of the Sixth Hour is omitted, and the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
 
-cl.ho.s09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
+cl.ho.ho09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
 
-cl.ho.s10.R001 = "If preceded by the Ninth Hour, Vespers begins without \"Blessed is our God…\""
-cl.ho.s10.R002 = "After the Peace Litany and the exclamation comes the reading of the appointed Kathisma of the Psalter. In parishes today it is customary to omit the recitation of the Psalter except on festal Vespers and at Presanctified Liturgy. Many will also keep the order of reciting the First Kathisma at vespers on Saturday evening."
-cl.ho.s10.R003 = "The appointed Psalms are offered here on separate pages for those who wish to include them."
-cl.ho.s10.R004 = "(The \"ektenia\" litany has been omitted.)"
+cl.ho.ho10.R001 = "If preceded by the Ninth Hour, Vespers begins without \"Blessed is our God…\""
+cl.ho.ho10.R002 = "After the Peace Litany and the exclamation comes the reading of the appointed Kathisma of the Psalter. In parishes today it is customary to omit the recitation of the Psalter except on festal Vespers and at Presanctified Liturgy. Many will also keep the order of reciting the First Kathisma at vespers on Saturday evening."
+cl.ho.ho10.R003 = "The appointed Psalms are offered here on separate pages for those who wish to include them."
+cl.ho.ho10.R004 = "(The \"ektenia\" litany has been omitted.)"
 
-cl.ho.s23.R001 = "In many monasteries and churches, the Canon of the Paraklesis is chanted without the Heirmoi (except perhaps in Ode ix of Small Paraklesis, in order to make an even number of troparia and thus to avoid repeating one.)"
-cl.ho.s23.R002 = "(The Heirmos may be omitted.)"
-cl.ho.s23.R003 = "(The Antiphon may be omitted, in which case we immediately sing the Prokeimenon.)"
+cl.ho.ho23.R001 = "In many monasteries and churches, the Canon of the Paraklesis is chanted without the Heirmoi (except perhaps in Ode ix of Small Paraklesis, in order to make an even number of troparia and thus to avoid repeating one.)"
+cl.ho.ho23.R002 = "(The Heirmos may be omitted.)"
+cl.ho.ho23.R003 = "(The Antiphon may be omitted, in which case we immediately sing the Prokeimenon.)"
 
 cl.hw.synaxarion.rubric = ""
 
