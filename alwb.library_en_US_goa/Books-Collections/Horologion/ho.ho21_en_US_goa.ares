@@ -1,5 +1,18 @@
 A_Resource_Whose_Name = ho.ho21_en_US_goa
 
+hoPrayer.Key000.title = ""
+R03 = ""
+hoPrayer.Key001.title = ""
+hoPrayer.Key001.incipit = //oc.m2.d2_en_US_goa.ocMA.Aposticha2.incipit
+hoPrayer.Key001.text = //oc.m2.d2_en_US_goa.ocMA.Aposticha2.text
+hoPrayer.Key002.incipit = ""
+hoPrayer.Key002.text = ""
+hoPrayer.Key003.incipit = "" //oc.m6.d3_en_US_goa.ocMA.Kathisma33.text
+hoPrayer.Key003.text = "" //oc.m6.d3_en_US_goa.ocMA.Kathisma33.text
+hoPrayer.Key004.title = ""
+hoPrayer.Key004.incipit = //tr.d068_en_US_goa.trMA.Troparion.incipit
+hoPrayer.Key004.text = //tr.d068_en_US_goa.trMA.Troparion.text
+
 hoPrayer.Key005.title = ""
 hoPrayer.Key005.title2 = ""
 hoPrayer.Key005.poet = ""
