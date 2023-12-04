@@ -234,33 +234,3 @@ cl.tr.d071.vl.mergedscore.text = "Vesperal Liturgy on Saturday Morning"
 cl.pe.d071.ma.mergedscore.text = "Resurrection and Matins of Pascha"
 cl.pe.d071.li.mergedscore.text = "Divine Liturgy of Pascha"
 cl.pe.d072.ve.mergedscore.text = "Agape Vespers"
-
-
-
-cl.hierarch.archbishop.elpidophoros.pet06.text = "For our Archbishop Elpidophoros, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
-cl.hierarch.archbishop.elpidophoros.fimi.text = "Elpidophoros, the Most-Reverend and God-Chosen Archbishop of the Holy Archdiocese of America, Primate and Exarch of the Atlantic and Pacific Oceans, our Father and Chief Shepherd: Many years!"
-cl.hierarch.archbishop.elpidophoros.away_fimi.text = ""
-cl.hierarch.archbishop.elpidophoros.pet19.text = "Again we pray for our Archbishop Elpidophoros."
-cl.hierarch.archbishop.elpidophoros.entrance.text = ""
-cl.hierarch.archbishop.elpidophoros.commemoration.text = "Among the first remember, Lord, our Archbishop Elpidophoros; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
-
-cl.hierarch.metropolitan.alexios.atlanta.pet06.text = "For our Archbishop Alexios, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
-cl.hierarch.metropolitan.alexios.atlanta.fimi.text = "Alexios, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Atlanta, our Father and Chief Shepherd: Many years!"
-cl.hierarch.metropolitan.alexios.atlanta.away_fimi.text = "Alexios, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Atlanta, our Father and Hierarch: Many years!"
-cl.hierarch.metropolitan.alexios.atlanta.pet19.text = "Again we pray for our Archbishop Alexios."
-cl.hierarch.metropolitan.alexios.atlanta.entrance.text = ""
-cl.hierarch.metropolitan.alexios.atlanta.commemoration.text = "Among the first remember, Lord, our Archbishop Alexios; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
-
-cl.hierarch.metropolitan.boston.methodios.pet06.text = "For our Archbishop Methodios, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
-cl.hierarch.metropolitan.boston.methodios.fimi.text = "Methodios, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Boston, our Father and Chief Shepherd: Many years!"
-cl.hierarch.metropolitan.boston.methodios.away_fimi.text = "Methodios, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Atlanta, our Father and Hierarch: Many years!"
-cl.hierarch.metropolitan.boston.methodios.pet19.text = "Again we pray for our Archbishop Methodios."
-cl.hierarch.metropolitan.boston.methodios.entrance.text = ""
-cl.hierarch.metropolitan.boston.methodios.commemoration.text = "Among the first remember, Lord, our Archbishop Methodios; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
-
-//cl.bishop1.fimi.text = "Isaiah the most-reverend and God-chosen Metropolitan of the Holy Metropolis of Denver, our father and chief shepherd: many years!"
-//cl.bishop1.fimi.text = "Nicholas, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Detroit, our Father and Chief Shepherd: Many years!"
-//cl.bishop1.fimi.text = "Savas, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Pittsburgh, our Father and Chief Shepherd: Many years!"
-//cl.bishop1.fimi.text = "Gerasimos, the Most Reverend and God-Chosen Metropolitan of the Holy Metropolis of San Francisco, our Father and Shepherd, many years!"
-//cl.bishop1.fimi.text = "Nathanael, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Chicago, our Father and Chief Shepherd: Many years!"
-//cl.bishop1.fimi.text = "Apostolos, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of New Jersey, our Father and Chief Shepherd: Many years!"
