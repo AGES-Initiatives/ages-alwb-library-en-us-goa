@@ -14,7 +14,7 @@ version.copyright3 = "The Divine Liturgy of St. John Chrysostom (© 2016), produ
 contact.address_1 = "Holy Cross Orthodox Press"
 contact.address_2 = "50 Goddard Avenue"
 contact.address_3 = "Brookline, MA 02445"
-contact.phone = ""
-contact.email = ""
+contact.phone = 
+contact.email = 
 
 media.key = "For media only."

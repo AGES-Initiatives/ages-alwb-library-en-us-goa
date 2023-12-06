@@ -2,7 +2,7 @@ A_Resource_Whose_Name = pe.d071_en_US_goa
 
 peMO.Troparion1.mode = miscellanea_en_US_goa.misc.Mode5
 peMO.Troparion1.incipit = "…"
-peMO.Troparion1.text = ""
+peMO.Troparion1.text = 
 
 peMO.Troparion2.mode = miscellanea_en_US_goa.misc.Mode6
 peMO.Troparion2.incipit = "…"
@@ -21,13 +21,13 @@ peMA.Troparion2b.text = "…and to those in the tombs He has granted life."
 peMA.TroparionShort.incipit = "Christ is risen from the…"
 peMA.TroparionShort.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs He has granted life." //for media
 
-peMA.Homily.title = ""
-peMA.Homily.text = ""
+peMA.Homily.title = 
+peMA.Homily.text = 
 
 peLI.MM.EntranceHymn.text = properties_en_US_goa.media.key
 
 peLI.CommunionHymn.incipit = "…"
-peLI.CommunionHymn.text = ""
+peLI.CommunionHymn.text = 
 
 peLI.AfterCommunion.mode = miscellanea_en_US_goa.misc.Mode5
 peLI.AfterCommunion.incipit = peMA.Troparion.incipit

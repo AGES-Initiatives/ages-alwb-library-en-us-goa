@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = client_en_US_goa
 
-cl.name = ""
-cl.address = ""
-cl.city = ""
-cl.state = ""
-cl.zipcode = ""
-cl.email = ""
-cl.website = ""
+cl.name = 
+cl.address = 
+cl.city = 
+cl.state = 
+cl.zipcode = 
+cl.email = 
+cl.website = 
 
 cl.bishop0.rank = "our Archbishop" //the superior of the local hierarch
 cl.bishop0.name_c = "(name)," //comma
@@ -22,16 +22,16 @@ cl.bishop1.name_sc = "(name);"
 cl.bishop1.name_p = "(name)." //period
 cl.bishop1.fimi.text = "(The text of the appropriate episcopal acclamation goes here.)"
 
-cl.bishop2.rank = "" // for double commemoration or guest
-cl.bishop2.name_c = ""
-cl.bishop2.name_co = ""
-cl.bishop2.name_sc = ""
-cl.bishop2.name_p = ""
-cl.bishop2.fimi.text = ""
+cl.bishop2.rank =  // for double commemoration or guest
+cl.bishop2.name_c = 
+cl.bishop2.name_co = 
+cl.bishop2.name_sc = 
+cl.bishop2.name_p = 
+cl.bishop2.fimi.text = 
 
 //To activate these settings, you must set them in client_gr_GR_cog
-cl.double_commemoration.bishop1and2 = ""
-cl.fimi.bishop1 = ""
+cl.double_commemoration.bishop1and2 = 
+cl.fimi.bishop1 = 
 
 //Institutional petition
 cl.institution.pet08.incipit = "For…"
@@ -42,8 +42,8 @@ cl.localpatronsaint1.dismissal = "(local patron saint);"
 cl.localpatronsaint1.greatcompline = "(local patron saint), intercede for us sinners."
 
 cl.Apolytikion1.title = "Apolytikion of the Parish Church"
-cl.Apolytikion1.mode = ""
-cl.Apolytikion1.melody = ""
+cl.Apolytikion1.mode = 
+cl.Apolytikion1.melody = 
 cl.Apolytikion1.text = "(Apolytikion of the Parish Church.)"
 
 cl.Kontakion1.title = "(For the Parish Church)"
@@ -53,46 +53,46 @@ cl.Kontakion1.text = "(Kontakion for the parish church)"
 
 cl.conVE.SticBoth.churchname.text = "of (name of the church),"
 cl.consecration.name = "(name of the church);"
-cl.consecration.greatlitany.finalpetition.name = "" //(and name of saint of the church,)
+cl.consecration.greatlitany.finalpetition.name =  //(and name of saint of the church,)
 
 cl.localpatronsaint2.supplication = "(of the chapel);"
 cl.localpatronsaint2.dismissal = "(of the chapel);"
 cl.localpatronsaint2.greatcompline = "(of the chapel), intercede for us sinners."
 
 cl.Apolytikion2.title = "Apolytikion of the Parish Chapel."
-cl.Apolytikion2.mode = ""
-cl.Apolytikion2.melody = ""
+cl.Apolytikion2.mode = 
+cl.Apolytikion2.melody = 
 cl.Apolytikion2.text = "(Apolytikion of the Parish Chapel.)"
 
 cl.Kontakion2.title = "Of the Parish Chapel."
-cl.Kontakion2.mode = ""
-cl.Kontakion2.melody = ""
+cl.Kontakion2.mode = 
+cl.Kontakion2.melody = 
 cl.Kontakion2.text = "(Kontakion of the Parish Chapel.)"
 
 cl.consecration2.name = "(name of the Chapel),"
 
-cl.relics.saint1 = ""
-cl.relics.saint1.Apolytikion.title = ""
-cl.relics.saint1.Apolytikion.mode = ""
-cl.relics.saint1.Apolytikion.melody = ""
-cl.relics.saint1.Apolytikion.text = ""
+cl.relics.saint1 = 
+cl.relics.saint1.Apolytikion.title = 
+cl.relics.saint1.Apolytikion.mode = 
+cl.relics.saint1.Apolytikion.melody = 
+cl.relics.saint1.Apolytikion.text = 
 
-cl.relics.saint2 = ""
-cl.relics.saint2.Apolytikion.title = ""
-cl.relics.saint2.Apolytikion.mode = ""
-cl.relics.saint2.Apolytikion.melody = ""
-cl.relics.saint2.Apolytikion.text = ""
+cl.relics.saint2 = 
+cl.relics.saint2.Apolytikion.title = 
+cl.relics.saint2.Apolytikion.mode = 
+cl.relics.saint2.Apolytikion.melody = 
+cl.relics.saint2.Apolytikion.text = 
 
-cl.relics.saint3 = ""
-cl.relics.saint3.Apolytikion.title = ""
-cl.relics.saint3.Apolytikion.mode = ""
-cl.relics.saint3.Apolytikion.melody = ""
-cl.relics.saint3.Apolytikion.text = ""
+cl.relics.saint3 = 
+cl.relics.saint3.Apolytikion.title = 
+cl.relics.saint3.Apolytikion.mode = 
+cl.relics.saint3.Apolytikion.melody = 
+cl.relics.saint3.Apolytikion.text = 
 
-cl.saints.array01.text = ""
-cl.saints.array02.text = ""
-cl.saints.array03.text = ""
-cl.saints.array04.text = ""
+cl.saints.array01.text = 
+cl.saints.array02.text = 
+cl.saints.array03.text = 
+cl.saints.array04.text = 
 
 //Rubrics
 cl.eu.lichrysbasil.R001 = "(The designated verses from the Psalms are sung with the hymn:)"
@@ -131,7 +131,7 @@ cl.ho.ho23.R001 = "In many monasteries and churches, the Canon of the Paraklesis
 cl.ho.ho23.R002 = "(The Heirmos may be omitted.)"
 cl.ho.ho23.R003 = "(The Antiphon may be omitted, in which case we immediately sing the Prokeimenon.)"
 
-cl.hw.synaxarion.rubric = ""
+cl.hw.synaxarion.rubric = 
 
 cl.LI.R001 = "An optional alternative to the Antiphons are the Typika (Psalms 102 and 145), and the Beatitudes with the appointed troparia, which are provided here."
 cl.LI.R002 = "(The litanies of Supplication and for the Catechumens and the First Prayer of the Faithful have been omitted.)"
@@ -208,9 +208,9 @@ cl.tr.d043.R003 = "When the veneration is finished, the priest returns the cross
 cl.tr.d043.R011 = "At the end of the Divine Liturgy, after the hymn \"Blessed be the name of the Lord,\" the choir sings the slow \"Holy God\" of the Great Doxology; the priest processes to the solea or around the nave of the church holding the tray with the cross. On the solea he circles the table three times before placing it on the table."
 cl.tr.d043.R012 = " When the \"Holy God\" is finished, the priest says:"
 
-cl.tr.d069.ma.R001 = ""
-cl.tr.d069.gh.R001 = ""
-cl.tr.d069.gh.R002 = ""
+cl.tr.d069.ma.R001 = 
+cl.tr.d069.gh.R001 = 
+cl.tr.d069.gh.R002 = 
 
 cl.tr.d070.R301 = "The clergy come out of the sanctuary and stand in front of the Epitaphion, censing and beginning each stanza."
 cl.tr.d070.R302 = "(End with the first one again.)"

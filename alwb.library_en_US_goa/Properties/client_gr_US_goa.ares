@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = client_gr_US_goa
 
-cl.name = ""
-cl.address = ""
-cl.city = ""
-cl.state = ""
-cl.zipcode = ""
-cl.email = ""
-cl.website = ""
+cl.name = 
+cl.address = 
+cl.city = 
+cl.state = 
+cl.zipcode = 
+cl.email = 
+cl.website = 
 
 cl.bishop0.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν" //the superior of the local hierarch
 cl.bishop0.name_c = "(τοῦ δεῖνος)," //comma
@@ -25,10 +25,10 @@ cl.bishop1.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
 cl.bishop2.rank = "καὶ" // for double commemoration or guest
 cl.bishop2.name_c = "καὶ"
 cl.bishop2.name_p = "καὶ"
-cl.bishop2.fimi.text = ""
+cl.bishop2.fimi.text = 
 
 //Set these options here to effect client generation
-//cl.double_commemoration.bishop1and2 = "" //blank or yes
+//cl.double_commemoration.bishop1and2 =  //blank or yes
 cl.fimi.bishop1 = "yes" //blank or yes
 
 cl.monastery1_c = "," //abbot
@@ -41,31 +41,31 @@ cl.localpatronsaint1.dismissal = "(τοῦ Ἁγίου τοῦ Ναοῦ)·"
 cl.localpatronsaint1.greatcompline = "(Ὁ Ἅγιος τοῦ Ναοῦ), πρέσβευε ὑπὲρ ἡμῶν τῶν ἁμαρτωλῶν."
 
 cl.Apolytikion1.title = "Τοῦ Ναοῦ."
-cl.Apolytikion1.mode = ""
-cl.Apolytikion1.melody = ""
+cl.Apolytikion1.mode = 
+cl.Apolytikion1.melody = 
 cl.Apolytikion1.text = "(Τὸ Ἀπολυτίκιον τοῦ Ναοῦ.)"
 
 cl.Kontakion1.title = "Τοῦ Ναοῦ."
-cl.Kontakion1.mode = ""
-cl.Kontakion1.melody = ""
+cl.Kontakion1.mode = 
+cl.Kontakion1.melody = 
 cl.Kontakion1.text = "(Τὸ Κοντάκιον τοῦ Ναοῦ.)"
 
 cl.conVE.SticBoth.churchname.text = "(ὄνομα τοῦ Ναοῦ),"
 cl.consecration.name = "(ὄνομα τοῦ Ναοῦ),"
-cl.consecration.greatlitany.finalpetition.name = "" //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+cl.consecration.greatlitany.finalpetition.name =  //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
 
 cl.localpatronsaint2.supplication = "(τοῦ παρεκκλησίου)·"
 cl.localpatronsaint2.dismissal = "(τοῦ παρεκκλησίου)·"
 cl.localpatronsaint2.greatcompline = "(τοῦ παρεκκλησίου), πρέσβευε ὑπὲρ ἡμῶν τῶν ἁμαρτωλῶν."
 
 cl.Apolytikion2.title = "Τοῦ Παρεκκλησίου."
-cl.Apolytikion2.mode = ""
-cl.Apolytikion2.melody = ""
+cl.Apolytikion2.mode = 
+cl.Apolytikion2.melody = 
 cl.Apolytikion2.text = "(Τὸ Ἀπολυτίκιον τοῦ Παρεκκλησίου.)"
 
 cl.Kontakion2.title = "Τοῦ Παρεκκλησίου."
-cl.Kontakion2.mode = ""
-cl.Kontakion2.melody = ""
+cl.Kontakion2.mode = 
+cl.Kontakion2.melody = 
 cl.Kontakion2.text = "(Τὸ Κοντάκιον τοῦ Παρεκκλησίου.)"
 
 //Liturgy Rubrics
