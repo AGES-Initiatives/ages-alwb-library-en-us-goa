@@ -29,6 +29,8 @@ cl.bishop2.name_sc =
 cl.bishop2.name_p = 
 cl.bishop2.fimi.text = 
 
+cl.ordinand_name.text = "(name)" //changes for each ordination
+
 //To activate these settings, you must set them in client_gr_GR_cog
 cl.double_commemoration.bishop1and2 = 
 cl.fimi.bishop1 = 

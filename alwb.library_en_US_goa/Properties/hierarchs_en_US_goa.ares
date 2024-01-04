@@ -10,6 +10,7 @@ archbishop.america.elpidophoros.away_fimi.text =
 archbishop.america.elpidophoros.pet19.text = "Again we pray for our Archbishop Elpidophoros."
 archbishop.america.elpidophoros.entrance.text = "May the Lord our God remember our Archbishop Elpidophoros, "
 archbishop.america.elpidophoros.commemoration.text = "Among the first remember, Lord, our Archbishop Elpidophoros; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+archbishop.america.elpidophoros.petOrdination01a.text = "For our Archbishop Elpidophoros,"
 
 metropolitan.atlanta.alexios.pet06.text = "For our Archbishop Alexios, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 metropolitan.atlanta.alexios.fimi.text = "Alexios, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Atlanta, our Father and Chief Shepherd: Many years!"
@@ -17,6 +18,7 @@ metropolitan.atlanta.alexios.away_fimi.text = "Alexios, the Most-Reverend and Go
 metropolitan.atlanta.alexios.pet19.text = "Again we pray for our Archbishop Alexios."
 metropolitan.atlanta.alexios.entrance.text = "May the Lord our God remember our Archbishop Alexios, "
 metropolitan.atlanta.alexios.commemoration.text = "Among the first remember, Lord, our Archbishop Alexios; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+metropolitan.atlanta.alexios.petOrdination01a.text = "For our Archbishop Alexios,"
 
 metropolitan.boston.methodios.pet06.text = "For our Archbishop Methodios, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 metropolitan.boston.methodios.fimi.text = "Methodios, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Boston, our Father and Chief Shepherd: Many years!"
@@ -24,6 +26,7 @@ metropolitan.boston.methodios.away_fimi.text = "Methodios, the Most-Reverend and
 metropolitan.boston.methodios.pet19.text = "Again we pray for our Archbishop Methodios."
 metropolitan.boston.methodios.entrance.text = "May the Lord our God remember our Archbishop Methodios, "
 metropolitan.boston.methodios.commemoration.text = "Among the first remember, Lord, our Archbishop Methodios; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+metropolitan.boston.methodios.petOrdination01a.text = "For our Archbishop Methodios, "
 
 metropolitan.chicago.nathanael.pet06.text = "For our Archbishop Nathanael, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 metropolitan.chicago.nathanael.fimi.text = "Nathanael, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Chicago, our Father and Chief Shepherd: Many years!"
@@ -31,6 +34,7 @@ metropolitan.chicago.nathanael.away_fimi.text = "Nathanael, the Most-Reverend an
 metropolitan.chicago.nathanael.pet19.text = "Again we pray for our Archbishop Nathanael."
 metropolitan.chicago.nathanael.entrance.text = "May the Lord our God remember our Archbishop Nathanael, "
 metropolitan.chicago.nathanael.commemoration.text = "Among the first remember, Lord, our Archbishop Nathanael; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+metropolitan.chicago.nathanael.petOrdination01a.text = "For our Archbishop Nathanael,"
 
 metropolitan.denver.isaiah.pet06.text = "For our Archbishop Isaiah, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 metropolitan.denver.isaiah.fimi.text = "Isaiah the most-reverend and God-chosen Metropolitan of the Holy Metropolis of Denver, our Father and Chief Shepherd: Many years!"
@@ -38,6 +42,7 @@ metropolitan.denver.isaiah.away_fimi.text = "Isaiah the most-reverend and God-ch
 metropolitan.denver.isaiah.pet19.text = "Again we pray for our Archbishop Isaiah."
 metropolitan.denver.isaiah.entrance.text = "May the Lord our God remember our Archbishop Isaiah, "
 metropolitan.denver.isaiah.commemoration.text = "Among the first remember, Lord, our Archbishop Isaiah; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+metropolitan.denver.isaiah.petOrdination01a.text = "For our Archbishop Isaiah,"
 
 metropolitan.detroit.nicholas.pet06.text = "For our Archbishop Nicholas, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 metropolitan.detroit.nicholas.fimi.text = "Nicholas, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Detroit, our Father and Chief Shepherd: Many years!"
@@ -45,6 +50,7 @@ metropolitan.detroit.nicholas.away_fimi.text = "Nicholas, the Most-Reverend and 
 metropolitan.detroit.nicholas.pet19.text = "Again we pray for our Archbishop Nicholas."
 metropolitan.detroit.nicholas.entrance.text = "May the Lord our God remember our Archbishop Nicholas, "
 metropolitan.detroit.nicholas.commemoration.text = "Among the first remember, Lord, our Archbishop Nicholas; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+metropolitan.detroit.nicholas.petOrdination01a.text = "For our Archbishop Nicholas,"
 
 metropolitan.newjersey.apostolos.pet06.text = "For our Archbishop Apostolos, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 metropolitan.newjersey.apostolos.fimi.text = "Apostolos, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of New Jersey, our Father and Chief Shepherd: Many years!"
@@ -52,6 +58,7 @@ metropolitan.newjersey.apostolos.away_fimi.text = "Apostolos, the Most-Reverend 
 metropolitan.newjersey.apostolos.pet19.text = "Again we pray for our Archbishop Apostolos."
 metropolitan.newjersey.apostolos.entrance.text = "May the Lord our God remember our Archbishop Apostolos, "
 metropolitan.newjersey.apostolos.commemoration.text = "Among the first remember, Lord, our Archbishop Apostolos; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+metropolitan.newjersey.apostolos.petOrdination01a.text = "For our Archbishop Apostolos,"
 
 metropolitan.pittsburgh.savas.pet06.text = "For our Archbishop Savas, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 metropolitan.pittsburgh.savas.fimi.text = "Savas, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Pittsburgh, our Father and Chief Shepherd: Many years!"
@@ -59,6 +66,7 @@ metropolitan.pittsburgh.savas.away_fimi.text = "Savas, the Most-Reverend and God
 metropolitan.pittsburgh.savas.pet19.text = "Again we pray for our Archbishop Savas."
 metropolitan.pittsburgh.savas.entrance.text = "May the Lord our God remember our Archbishop Savas, "
 metropolitan.pittsburgh.savas.commemoration.text = "Among the first remember, Lord, our Archbishop Savas; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+metropolitan.pittsburgh.savas.petOrdination01a.text = "For our Archbishop Savas,"
 
 metropolitan.sanfrancisco.gerasimos.pet06.text = "For our Archbishop Gerasimos, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 metropolitan.sanfrancisco.gerasimos.fimi.text = "Gerasimos, the Most Reverend and God-Chosen Metropolitan of the Holy Metropolis of San Francisco, our Father and Chief Shepherd, many years!"
@@ -66,16 +74,22 @@ metropolitan.sanfrancisco.gerasimos.away_fimi.text = "Gerasimos, the Most Revere
 metropolitan.sanfrancisco.gerasimos.pet19.text = "Again we pray for our Archbishop Gerasimos."
 metropolitan.sanfrancisco.gerasimos.entrance.text = "May the Lord our God remember our Archbishop Gerasimos, "
 metropolitan.sanfrancisco.gerasimos.commemoration.text = "Among the first remember, Lord, our Archbishop Gerasimos; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+metropolitan.sanfrancisco.gerasimos.petOrdination01a.text = "For our Archbishop Gerasimos,"
 
-bishop.joachim.dad.pet06.text = "For our Archbishop Elpidophoros, and our bishop Joachim, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
-bishop.joachim.dad.pet19.text = "Again we pray for our Archbishop Elpidophoros, and our bishop Joachim."
-bishop.joachim.commemoration.text = "Among the first remember, Lord, our bishop Joachim; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+bishop.joachim.dad.pet06.text = "For our Archbishop Elpidophoros, and our Bishop Joachim, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
+bishop.joachim.dad.pet19.text = "Again we pray for our Archbishop Elpidophoros, and our Bishop Joachim."
+bishop.joachim.commemoration.text = "Among the first remember, Lord, our Bishop Joachim; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+bishop.joachim.dad.petOrdination01a.text = "For our Archbishop Elpidophoros, and our Bishop Joachim,"
 
-bishop.timothy.chicago.pet06.text = "For our Archbishop Nathanael, and our bishop Timothy, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
-bishop.timothy.chicago.pet19.text = "Again we pray for our Archbishop Nathanael, and our bishop Timothy."
-bishop.timothy.commemoration.text = "Among the first remember, Lord, our bishop Timothy; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+bishop.timothy.chicago.pet06.text = "For our Archbishop Nathanael, and our Bishop Timothy, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
+bishop.timothy.chicago.pet19.text = "Again we pray for our Archbishop Nathanael, and our Bishop Timothy."
+bishop.timothy.commemoration.text = "Among the first remember, Lord, our Bishop Timothy; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+bishop.timothy.chicago.petOrdination01a.text = "For our Archbishop Nathanael, and our Bishop Timothy,"
 
-bishop.constantine.denver.pet06.text = "For our Archbishop Isaiah, and our bishop Constantine, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
-bishop.constantine.denver.pet19.text = "Again we pray for our Archbishop Isaiah, and our bishop Constantine."
-bishop.constantine.commemoration.text = "Among the first remember, Lord, our bishop Constantine; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+bishop.constantine.denver.pet06.text = "For our Archbishop Isaiah, and our Bishop Constantine, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
+bishop.constantine.denver.pet19.text = "Again we pray for our Archbishop Isaiah, and our Bishop Constantine."
+bishop.constantine.commemoration.text = "Among the first remember, Lord, our Bishop Constantine; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+bishop.constantine.denver.petOrdination01a.text = "For our Archbishop Isaiah, and our Bishop Constantine,"
 
+ordinand.name.acc.text = "(name)" //change for each ordination
+ordinand.name.gen.text = "(name)" //change for each ordination
