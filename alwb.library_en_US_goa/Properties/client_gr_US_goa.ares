@@ -30,7 +30,7 @@ cl.bishop2.fimi.text =
 cl.ordinand_name.text = "" //changes for each ordination
 
 //Set these options here to effect client generation
-//cl.double_commemoration.bishop1and2 =  //blank or yes
+//cl.double_commemoration.bishop1and2 = //blank or yes
 cl.fimi.bishop1 = "yes" //blank or yes
 
 cl.monastery1_c = "," //abbot
@@ -54,7 +54,7 @@ cl.Kontakion1.text = "(Τὸ Κοντάκιον τοῦ Ναοῦ.)"
 
 cl.conVE.SticBoth.churchname.text = "(ὄνομα τοῦ Ναοῦ),"
 cl.consecration.name = "(ὄνομα τοῦ Ναοῦ),"
-cl.consecration.greatlitany.finalpetition.name =  //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+cl.consecration.greatlitany.finalpetition.name = //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
 
 cl.localpatronsaint2.supplication = "(τοῦ παρεκκλησίου)·"
 cl.localpatronsaint2.dismissal = "(τοῦ παρεκκλησίου)·"
