@@ -99,10 +99,10 @@ cl.saints.array04.text =
 //Rubrics
 cl.eu.lichrysbasil.R001 = "(The designated verses from the Psalms are sung with the hymn:)"
 cl.eu.lichrysbasil.R002 = "(The designated verses from the Psalms are sung with the hymn:)"
-cl.eu.lichrysbasil.R003 = "(On weekdays we sing: (\"who are wondrous in Your saints\"; the Feasts of the Lord have their own refrain.)"
+cl.eu.lichrysbasil.R003 = "(On weekdays we sing: (“who are wondrous in Your saints”; the Feasts of the Lord have their own refrain.)"
 cl.eu.lichrysbasil.R004 = "(The designated verses of the Psalms are sung with the Apolytikion.)"
-cl.eu.lichrysbasil.R005 = "As the Third Antiphon is being sung (with its verses), the Priest and Deacon bow three times before the holy Table. Then the Priest gives the holy Gospel to the Deacon, who kisses the Priest's hand as he receives it, and then circles the holy Table with the Priest following him. Preceded by altar servers holding candles and fans, they exit through the north door for the so-called Small Entrance. When there is no Deacon, the Priest takes the holy Gospel and holds it up in front of his face. When they reach the center of the church, they stop and bow their heads, and the Deacon says in a low voice:"
-cl.eu.lichrysbasil.R006 = "(On weekdays we sing: (\"who are wondrous in Your saints\"), while the Feasts of the Lord have their own Entrance Hymns.)"
+cl.eu.lichrysbasil.R005 = "As the Third Antiphon is being sung (with its verses), the Priest and Deacon bow three times before the holy Table. Then the Priest gives the holy Gospel to the Deacon, who kisses the Priest’s hand as he receives it, and then circles the holy Table with the Priest following him. Preceded by altar servers holding candles and fans, they exit through the north door for the so-called Small Entrance. When there is no Deacon, the Priest takes the holy Gospel and holds it up in front of his face. When they reach the center of the church, they stop and bow their heads, and the Deacon says in a low voice:"
+cl.eu.lichrysbasil.R006 = "(On weekdays we sing: (“who are wondrous in Your saints”), while the Feasts of the Lord have their own Entrance Hymns.)"
 cl.eu.lichrysbasil.R007 = "(The priest enters the sanctuary. The Apolytikion is repeated and the Troparion of the church and the Kontakion of the day are sung.)"
 cl.eu.lichrysbasil.R008 = "(The Reader reads the verses from the Psalms.)"
 cl.eu.lichrysbasil.R009 = "The reading is from (the name of the book of the New Testament from which the Apostolic reading is taken)."
@@ -112,22 +112,22 @@ cl.eu.lichrysbasil.R012 = "(The Deacon reads the designated pericope of the holy
 cl.eu.lichrysbasil.R013 = "(Following the readings, it is customary for the priest to preach the sermon.)"
 cl.eu.lichrysbasil.R014 = "(The Communion Hymn changes according to the Feast Day.)"
 
-cl.eu.presanctified.R001 = "(Go to the insert for today's appointed hymns and readings.)"
+cl.eu.presanctified.R001 = "(Go to the insert for today’s appointed hymns and readings.)"
 cl.eu.presanctified.R002 = "(Go back to the Presanctified Liturgy booklet.)"
 cl.eu.presanctified.R003 = "(During the first three weeks of Lent, the following litany and the Prayer for those Preparing for Illumination are omitted.)"
-cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Epistle and Gospel readings here.)"
-cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Gospel reading here.)"
+cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After “Let my prayer…” find the Epistle and Gospel readings here.)"
+cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After “Let my prayer…” find the Gospel reading here.)"
 cl.eu.presanctified.R006 = "(If there is to be an Epistle and/or Gospel reading, find them in the insert, then come back to this place in the service.)"
 
-cl.ho.ho03.R001 = "(The \"ektenia\" litany has been omitted.)"
-cl.ho.ho06.R001 = "If the Ninth Hour is to be appended, the dismissal of the Sixth Hour is omitted, and the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
+cl.ho.ho03.R001 = "(The “ektenia” litany has been omitted.)"
+cl.ho.ho06.R001 = "If the Ninth Hour is to be appended, the dismissal of the Sixth Hour is omitted, and the Ninth Hour begins immediately at “Holy God…” without “Blessed is our God… Heavenly King…”"
 
-cl.ho.ho09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediately at \"Holy God…\" without \"Blessed is our God… Heavenly King…\""
+cl.ho.ho09.R001 = "If preceded by the Sixth Hour, the Ninth Hour begins immediately at “Holy God…” without “Blessed is our God… Heavenly King…”"
 
-cl.ho.ho10.R001 = "If preceded by the Ninth Hour, Vespers begins without \"Blessed is our God…\""
+cl.ho.ho10.R001 = "If preceded by the Ninth Hour, Vespers begins without “Blessed is our God…”"
 cl.ho.ho10.R002 = "After the Peace Litany and the exclamation comes the reading of the appointed Kathisma of the Psalter. In parishes today it is customary to omit the recitation of the Psalter except on festal Vespers and at Presanctified Liturgy. Many will also keep the order of reciting the First Kathisma at vespers on Saturday evening."
 cl.ho.ho10.R003 = "The appointed Psalms are offered here on separate pages for those who wish to include them."
-cl.ho.ho10.R004 = "(The \"ektenia\" litany has been omitted.)"
+cl.ho.ho10.R004 = "(The “ektenia” litany has been omitted.)"
 
 cl.ho.ho23.R001 = "In many monasteries and churches, the Canon of the Paraklesis is chanted without the Heirmoi (except perhaps in Ode ix of Small Paraklesis, in order to make an even number of troparia and thus to avoid repeating one.)"
 cl.ho.ho23.R002 = "(The Heirmos may be omitted.)"
@@ -140,7 +140,7 @@ cl.LI.R002 = "(The litanies of Supplication and for the Catechumens and the Firs
 cl.LI.R003 = "(The preferred response is:)"
 cl.LI.R004 = "(Alleluia is sung thrice. Verses may be found in the Liturgy - Variable Parts of the day.)"
 
-cl.me.m01.d06.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory be to God…\""
+cl.me.m01.d06.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: “Glory be to God…”"
 cl.me.m02.d02.R001 = "In Ode ix, if only the canon of the feast will be sung with its Megalynaria, then we do not sing the Magnificat nor Ode ix of the Resurrectional canon. However, if the correct order is kept, then we sing only as many festal Megalynaria as needed for the number of troparia of the canon of the feast."
 cl.me.m02.d10.R001 = "When the Saturday of the Souls falls on Feb. 10, the memory of St. Haralambos is observed one day before, on Friday, Feb. 9, along with the Leave-taking of the Meeting of the Lord."
 
@@ -149,15 +149,15 @@ cl.me.m03.d25.R001 = "When the feast of the Annunciation falls on one of the fir
 cl.me.m08.vespers_entrance.R001 = "According to the Patriarchal Hemerologion, during the first two weeks of August, whenever Vespers will be followed by a Supplicatory Canon, it is customary for there to be an Entrance with incense."
 cl.me.m08.vespers_canon.R001 = "At Vespers during the first two weeks of August, with some exceptions, the appointed Supplicatory Canon to the Most-holy Theotokos is appended."
 
-cl.me.m09.d01.R001 = "There are a number of options for the content of the services for September 1. The Patriarchal Hemerologion, which we aspire to follow, describes the Patriarchate's added special commemorations of an Icon of the Theotokos as well as the Environment, and then indicates that, presumably for the rest of us, the service should be celebrated according to the Menaion."
+cl.me.m09.d01.R001 = "There are a number of options for the content of the services for September 1. The Patriarchal Hemerologion, which we aspire to follow, describes the Patriarchate’s added special commemorations of an Icon of the Theotokos as well as the Environment, and then indicates that, presumably for the rest of us, the service should be celebrated according to the Menaion."
 
 //Sep. 14
 cl.me.m09.d14.R001 = "The Doxology follows immediately."
-cl.me.m09.d14.R002 = "(Mode 4 \"Agia\" is preferred for today.)"
+cl.me.m09.d14.R002 = "(Mode 4 “Agia” is preferred for today.)"
 cl.me.m09.d14.R003 = "If the Service of the Elevation of the Cross will occur at the end of Liturgy then sing the following. Otherwise, see below."
 cl.me.m09.d14.R004 = "Special Service of the Elevation"
 cl.me.m09.d14.R005 = "(The procession with the cross takes place during singing of the Asmatic Holy God.)"
-cl.me.m09.d14.R006 = "For each petition, the choir sings \"Lord, have mercy,\" 3-10-3 times (or 3-40-3, or 3-100-3)."
+cl.me.m09.d14.R006 = "For each petition, the choir sings “Lord, have mercy,” 3-10-3 times (or 3-40-3, or 3-100-3)."
 cl.me.m09.d14.R007 = "(As the people venerate the cross, sing the following hymn:)"
 
 cl.me.m10.d26.R001 = "Use the verses in the text if they differ from those in the scores."
@@ -168,12 +168,12 @@ cl.me.m11.d09.R001 = "The full canons in English are unavailable at this time. T
 cl.me.m11.d14.R001 = "The rubrics for this day say to sing the Kathismata of the Mode and day of the week from the Parakletike (Octoechos). Since most parishes are not familiar with these hymns, and since they change from year to year, we have not included them here."
 cl.me.m11.d14.R002 = "The rubrics for this day say to sing the Heirmoi of Odes 3, 6, 8, and 9 of the Canon of the Menaion. Most parishes would not be familiar with this, so we have inserted Katavasias instead."
 
-cl.me.m12.d25.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: \"Glory to God in the highest…\""
+cl.me.m12.d25.R001 = "The [second] choir sings the following Idiomelon, up to the asterisk; then the first choir begins the Great Doxology, starting with the last verse of the Idiomelon: “Glory to God in the highest…”"
 
 cl.pe.d072.R001 = "The Patriarchal Typikon omits the Prophecies on this day and says that only the Gospel lesson should be read."
 cl.pe.d078.R001 = "According to the Patriarchal Hemerologion:"
 cl.pe.d078.R002 = "According to common practice:"
-cl.pe.d110.R001 = "The Patriarchal Typikon says to sing the troparia without the verse, \"Glory to You, our God…\"."
+cl.pe.d110.R001 = "The Patriarchal Typikon says to sing the troparia without the verse, “Glory to You, our God…”"
 cl.pe.d119.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are used. This day does not present festal Katavasias, but rather the Heirmoi of the canon are used, which thematically have nothing to do with the Saturday of the Souls. I have therefore included Ode ix in its entirety, edited for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
 
 //Service Books
@@ -190,7 +190,7 @@ cl.se.R001 = "Use the verses in the text if they differ from those in the scores
 
 //Lent Soul Saturday
 cl.tr.d014.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Ode ix is presented in its entirety, for the enrichment and edification of both singers and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
-cl.tr.d014.R002 = "Each of the next five troparia may be preceded by the verse: \"Glory to You, our God, glory to You.\""
+cl.tr.d014.R002 = "Each of the next five troparia may be preceded by the verse: “Glory to You, our God, glory to You.”"
 
 //Lent Cheese Saturday
 cl.tr.d021.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. Ode ix is presented in its entirety, for the enrichment and edification of both singers and listeners. Since this Saturday of Cheesefare week is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
@@ -207,8 +207,8 @@ cl.tr.d056.R001 = "The priest, vested in epitrachilion and phelonion, stands bef
 cl.tr.d043.R001 = "As the choirs sing the Holy God for the Great Doxology, the priest processes to the solea or around the nave of the church holding the tray with the cross. On the solea he circles the table three times before placing it on the table. When the Doxology is finished, he says:"
 cl.tr.d043.R002 = "The clergy venerate the cross first, followed by the faithful. While they are venerating, the following Idiomela may be chanted."
 cl.tr.d043.R003 = "When the veneration is finished, the priest returns the cross to the holy altar."
-cl.tr.d043.R011 = "At the end of the Divine Liturgy, after the hymn \"Blessed be the name of the Lord,\" the choir sings the slow \"Holy God\" of the Great Doxology; the priest processes to the solea or around the nave of the church holding the tray with the cross. On the solea he circles the table three times before placing it on the table."
-cl.tr.d043.R012 = " When the \"Holy God\" is finished, the priest says:"
+cl.tr.d043.R011 = "At the end of the Divine Liturgy, after the hymn “Blessed be the name of the Lord,” the choir sings the slow “Holy God” of the Great Doxology; the priest processes to the solea or around the nave of the church holding the tray with the cross. On the solea he circles the table three times before placing it on the table."
+cl.tr.d043.R012 = " When the “Holy God” is finished, the priest says:"
 
 cl.tr.d069.ma.R001 = 
 cl.tr.d069.gh.R001 = 
