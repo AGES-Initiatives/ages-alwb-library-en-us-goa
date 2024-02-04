@@ -46,12 +46,12 @@ cl.localpatronsaint1.greatcompline = "(local patron saint), intercede for us sin
 cl.Apolytikion1.title = "Apolytikion of the Parish Church"
 cl.Apolytikion1.mode = 
 cl.Apolytikion1.melody = 
-cl.Apolytikion1.text = "(Apolytikion of the Parish Church.)"
+cl.Apolytikion1.text = ""
 
 cl.Kontakion1.title = "(For the Parish Church)"
 cl.Kontakion1.mode = 
 cl.Kontakion1.melody = 
-cl.Kontakion1.text = "(Kontakion for the parish church)"
+cl.Kontakion1.text = ""
 
 cl.conVE.SticBoth.churchname.text = "of (name of the church),"
 cl.consecration.name = "(name of the church);"

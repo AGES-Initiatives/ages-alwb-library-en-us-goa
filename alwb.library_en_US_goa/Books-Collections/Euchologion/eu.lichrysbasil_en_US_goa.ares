@@ -2,25 +2,31 @@ A_Resource_Whose_Name = eu.lichrysbasil_en_US_goa
 
 euLI.notice = properties_en_US_goa.version.notice2
 euLI.copyright = properties_en_US_goa.version.copyright3
-euLI.title = "THE LITURGY OF ST. JOHN CHRYSOSTOM"
+euLI.title = "THE DIVINE LITURGY OF ST. JOHN CHRYSOSTOM"
+euLI.Key01.title = "THE DIVINE LITURGY"
+euLI.Key02.title = "OF OUR FATHER AMONG THE SAINTS"
+euLI.Key03.title = "JOHN CHRYSOSTOM"
 euLI.basil.copyright = 
-euLI.basil.title = "THE LITURGY OF ST. BASIL THE GREAT"
+euLI.basil.title = "THE DIVINE LITURGY OF ST. BASIL THE GREAT"
+euLI.Key01.basil.title = "THE DIVINE LITURGY"
+euLI.Key02.basil.title = "OF OUR FATHER AMONG THE SAINTS"
+euLI.Key03.basil.title = "BASIL THE GREAT"
 
 // Part 01 Enarxis
 euLI.Key0100.title = 
 euLI.Key0101.text = 
-euLI.Key0102.text = prayers_en_US_goa.pr.enarxis01.text
+euLI.Key0102.text = properties_en_US_goa.deprecated.key
 euLI.Key0103.text = 
 euLI.Key0104.text = 
 euLI.Key0105.text = 
 euLI.Key0106.text = 
 euLI.Key0107.text = 
-euLI.Key0108.text = prayers_en_US_goa.pr.res08.text
-euLI.Key0109.text = prayers_en_US_goa.pr.enarxis02.text
-euLI.Key0110.text = prayers_en_US_goa.pr.res04.text
+euLI.Key0108.text = properties_en_US_goa.deprecated.key
+euLI.Key0109.text = properties_en_US_goa.deprecated.key
+euLI.Key0110.text = properties_en_US_goa.deprecated.key
 
 // Part 02 Great Litany - Antiphon 1
-euLI.Key0200.text = "THE LITANY OF PEACE OR GREAT LITANY" //.text and not .title for the sake of media
+euLI.Key0200.text = "ENARXIS, PEACE LITANY, AND ANTIPHONS" //.text and not .title for the sake of media
 euLI.Key0201.title = "THE PRAYER OF THE FIRST ANTIPHON"
 euLI.Key0201.text = "Lord, our God, whose dominion is incomparable and glory incomprehensible; whose mercy is immeasurable, and love for humankind ineffable: Look upon us and upon this holy house in Your loving-kindness, and grant to us and to those who pray with us Your abundant mercy and compassion."
 euLI.Key0202.title = "THE SMALL LITANY"
@@ -45,7 +51,7 @@ euLI.MM.Key0600.text = properties_en_US_goa.media.key
 euLI.Key0601.title = "THE PRAYER OF THE TRISAGION HYMN"
 euLI.Key0601.text = "O Holy God, who is resting among the holy ones, praised by the Seraphim with the thrice-holy voice, glorified by the Cherubim, and worshiped by every celestial power, You have brought all things into being out of nothing. You have created man according to Your image and likeness and adorned him with all the gifts of Your grace. You give wisdom and understanding to the one who asks, and You overlook not the sinner, but have set repentance as the way of salvation. You have granted us, Your humble and unworthy servants, to stand even at this hour before the glory of Your holy Altar of sacrifice and to offer to You due worship and praise. Master, accept the Trisagion Hymn also from the lips of us sinners, and visit us in Your goodness. Forgive all our voluntary and involuntary transgressions, sanctify our souls and bodies, and grant that we may worship You in holiness all the days of our lives, through the intercessions of the holy Theotokos and of all the saints who have pleased You throughout the ages."
 euLI.Key0602.text = "Dynamis."
-euLI.Key0603.text = prayers_en_US_goa.pr.Command_bishop.text
+euLI.Key0603.text = properties_en_US_goa.deprecated.key
 euLI.Key0604.text = "Blessed is He who comes in the name of the Lord."
 euLI.Key0605.text = "Master, bless the throne on high."
 euLI.Key0606.text = "Blessed are You upon the throne of the glory of Your kingdom, enthroned upon the Cherubim always, now and ever and to the ages of ages. Amen."
@@ -64,14 +70,14 @@ euLI.Key0702.text = "May God, through the intercessions of the holy and glorious
 euLI.Key0703.text = "Amen, amen, amen. Be it unto me according to your word."
 euLI.Key0704.title = "THE PRAYER OF THE HOLY GOSPEL"
 euLI.Key0704.text = "Shine in our hearts, O benevolent Lord, the pure light of Your divine knowledge, and open the eyes of our mind that we may comprehend the proclamations of Your Gospels. Instill in us the fear that Your blessed commandments inspire, so that, crushing carnal desires, we may seek the spiritual citizenship, thinking and doing all those things that are pleasing to You. For You, Christ our God, are the illumination of our souls and bodies, and to You we offer up glory, and to Your Father, who is without beginning, and Your all-holy, good, and life-creating Spirit, now and ever and to the ages of ages. Amen."
-euLI.Key0705.text = prayers_en_US_goa.pr.gos04.text
+euLI.Key0705.text = properties_en_US_goa.deprecated.key
 euLI.Key0706.title = "THE SERMON"
 euLI.Key0706.rubric = "(According to ancient tradition, the sermon was delivered following the readings.)"
 euLI.Key0707.rubric = "The following litanies are usually omitted."
 
 // Part 08 Ektenia
 euLI.Key0800.title = "THE LITANY OF FERVENT SUPPLICATION"
-euLI.Key0801.title = "THE PRAYER OF FERVENT SUPPLICATION"
+euLI.Key0801.title = "PRAYER OF FERVENT SUPPLICATION"
 euLI.Key0801.text = "Lord our God, accept this fervent supplication from Your servants, and have mercy on us in accordance with the abundance of Your mercy, and send down Your compassion upon us and upon all Your people who await Your great and rich mercy."
 
 // Part 09 Catechumens
@@ -92,18 +98,18 @@ euLI.Key0911.text = "Those who are catechumens, depart, catechumens depart, all 
 euLI.Key0912.text = "Again and again, in peace, let all of us, the faithful, pray to the Lord."
 
 // Part 10 Prayers of the Faithful
-euLI.Key1000.title = "THE SUPPLICATION OF THE FAITHFUL"
-euLI.Key1001.title = "THE FIRST PRAYER OF THE FAITHFUL"
+euLI.Key1000.title = "SUPPLICATION OF THE FAITHFUL"
+euLI.Key1001.title = "FIRST PRAYER OF THE FAITHFUL"
 euLI.Key1001.text = "We give thanks to You, O Lord God of Hosts, who has made us worthy to stand even now before Your holy Altar of sacrifice and to fall down before You seeking Your compassion for our own misdeeds and those committed in ignorance by the people. Accept, O God, our supplication. Make us worthy to offer You prayers, supplications, and bloodless sacrifices for all Your people. As You have appointed us to this, Your ministry, by the power of Your Holy Spirit, make us sufficient to call upon You at every time and in every place, free of blame or stumbling and with a clear conscience, so that, hearing us, You may be merciful to us in the abundance of Your goodness."
 euLI.Key1001.basil.text = 
-euLI.Key1002.title = "THE SECOND PRAYER OF THE FAITHFUL"
+euLI.Key1002.title = "SECOND PRAYER OF THE FAITHFUL"
 euLI.Key1002.text = "Again and countless times we fall down before You, and we implore You, O good and benevolent Lord: That You, having regarded our prayer, may cleanse our souls and bodies from every defilement of flesh and spirit, and grant to us to stand before Your holy Altar of sacrifice, free of guilt and condemnation. Grant also, O God, to those who pray with us, progress in life, faith, and spiritual understanding. Grant that they always worship You with awe and love, partake of Your holy sacrament without guilt or condemnation, and be deemed worthy of Your celestial kingdom."
 euLI.Key1002.basil.text = 
 euLI.Key1003.text = "That, ever guarded by Your might, we may ascribe glory to You, to the Father and to the Son and to the Holy Spirit, now and ever and to the ages of ages."
 
 // Part 11 Great Entrance
-euLI.Key1100.title = "THE GREAT ENTRANCE"
-euLI.Key1101.title = "THE PRAYER OF THE CHERUBIC HYMN"
+euLI.Key1100.title = "GREAT ENTRANCE"
+euLI.Key1101.title = "PRAYER OF THE CHERUBIC HYMN"
 euLI.Key1101.text = "No one bound by carnal desires and pleasures is worthy to approach, draw near, or minister to You, the King of Glory. For to serve You is great and awesome even for the heavenly powers. Yet, because of Your ineffable and immeasurable love for humankind, You impassibly and immutably became man. You, as the Master of all, became our high priest and delivered unto us the sacred service of this liturgical and bloodless sacrifice. Indeed, Lord our God, You alone reign over the celestial and the terrestrial; borne aloft on the cherubic throne, Lord of the Seraphim and King of Israel, the only holy and resting among the holy ones. I now beseech You, who alone are good and inclined to hear: Look down upon me, Your sinful and unprofitable servant, and cleanse my soul and heart of a wicked conscience. Vested as I am with the grace of priesthood by the power of Your Holy Spirit, make me sufficient to stand before Your holy Table and perform the sacrament of Your holy and pure Body and Your precious Blood. I come before You, with my head bowed, and I implore You: Turn not Your face away from me, nor reject me from among Your children, but make me, Your sinful and unworthy servant, worthy to offer these gifts to You. For You are the One who both offers and is offered, the One who is received and is distributed, O Christ our God, and to You we offer up glory, and to Your Father, who is without beginning, and Your all-holy and good and life-creating Spirit, now and ever and to the ages of ages. Amen."
 euLI.Key1102.title = "The Cherubic Hymn."
 euLI.Key1102.text = "Let us, who mystically represent the Cherubim and who sing the thrice-holy hymn to the life-creating Trinity, now lay aside every worldly care."
@@ -142,10 +148,10 @@ euLI.Key1140.rubric = "The Hierarch blesses the faithful with the two-stemmed ca
 euLI.KeyAB1140.rubric = "The Archbishop blesses the faithful with the two-stemmed candle, and the choir sings: Eis polla eti, Despota!"
 
 // Part 12 Litany and Creed
-euLI.Key1200.title = "THE LITANY OF COMPLETION"
+euLI.Key1200.title = "LITANY OF COMPLETION"
 euLI.Key1200.text = properties_en_US_goa.media.key
 euLI.Key1201.text = "For the precious Gifts here presented, let us pray to the Lord."
-euLI.Key1202.title = "THE OFFERTORY PRAYER"
+euLI.Key1202.title = "OFFERTORY PRAYER"
 euLI.Key1202.text = "Lord God Almighty, You alone are holy. You accept the sacrifice of praise from those who call upon You with their whole heart, even so, accept from us sinners our supplication, and bring it to Your holy Altar of sacrifice. Make us sufficient to offer You gifts and spiritual sacrifices for our own misdeeds and those committed in ignorance by the people. Deem us worthy to find grace in Your sight, that our sacrifice may be well pleasing to You, and that the good Spirit of Your grace may rest upon us and upon these gifts presented and upon all Your people."
 euLI.Key1202.basil.text = 
 euLI.Key1203.text = "Through the mercies of Your only-begotten Son, with whom You are blessed, and Your all-holy, good, and life-creating Spirit, now and ever and to the ages of ages."
@@ -161,7 +167,7 @@ euLI.Key1208.text = "The doors! The doors! In wisdom, let us be attentive!"
 euLI.Key1209.title = "THE SYMBOL OF OUR FAITH"
 
 // Part 13 Holy Anaphora
-euLI.Key1300.title = "THE HOLY ANAPHORA"
+euLI.Key1300.title = "HOLY ANAPHORA"
 euLI.Key1300.text = properties_en_US_goa.media.key
 euLI.Key1301.text = "Let us stand aright! Let us stand in awe! Let us be attentive, that we may present the Holy Offering in peace."
 euLI.Key1302.text = "A mercy of peace, a sacrifice of praise."
@@ -205,8 +211,8 @@ euLI.Key1327.basil.text = "Especially our most holy, pure, blessed, and glorious
 euLI.Key1328.title = 
 euLI.Key1328.incipit = prayers_en_US_goa.pr.ItIsTrulyRight_complete.incipit
 euLI.Key1328.text = prayers_en_US_goa.pr.ItIsTrulyRight_complete.text
-euLI.Key1328.basil.incipit = //oc.m8.d1_en_US_goa.ocMA.Kathisma23.text
-euLI.Key1328.basil.text = //oc.m8.d1_en_US_goa.ocMA.Kathisma23.text
+//euLI.Key1328.basil.incipit = oc.m8.d1_en_US_goa.ocMA.Kathisma23.text
+//euLI.Key1328.basil.text = oc.m8.d1_en_US_goa.ocMA.Kathisma23.text
 euLI.Key1329.text = "For Saint John the Prophet, Forerunner, and Baptist; for the holy, glorious, and most praiseworthy apostles; for Saint(s) (Name), whose memory we celebrate; and for all Your saints, through whose supplications, visit us, O God. And remember all who have fallen asleep in the hope of the resurrection to life eternal (here the Priest commemorates by name those departed whom he wishes). Grant them rest, where the light of Your countenance keeps watch. Again we beseech You, Lord, remember all Orthodox bishops who rightly teach the word of Your truth, the presbyterate, the diaconate in Christ, and every priestly order. Again we offer You this spiritual worship for the whole world, for the holy, catholic, and apostolic Church, and for those living pure and reverent lives. For civil authorities and our armed forces, grant that they may govern in peace, Lord, so that in their tranquility we, too, may live calm and serene lives, in all piety and virtue."
 euLI.Key1329.basil.text = 
 euLI.Key1330.text = "Among the first remember, Lord, our Archbishop (Name); grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
@@ -234,7 +240,7 @@ euLI.Key1407.title = "BOWING OF HEADS"
 euLI.Key1407.text = "We give thanks to You, invisible King, who by Your boundless power fashioned the universe, and in the multitude of Your mercy brought all things from nothing into being. Look down from heaven, O Master, upon those who have bowed their heads before You, for they have not bowed before flesh and blood, but before You, the awesome God. Therefore, O Master, make smooth and beneficial for us all, whatever lies ahead, according to the need of each: Sail with those who sail, travel with those who travel, heal the sick, Physician of our souls and bodies."
 euLI.Key1407.basil.text = 
 euLI.Key1408.text = prayers_en_US_goa.pr.exc07a.text
-euLI.Key1409.title = "THE HOLY COMMUNION"
+euLI.Key1409.title = "HOLY COMMUNION"
 euLI.Key1409.text = "Hearken, O Lord Jesus Christ our God, from Your holy dwelling place and from the throne of glory of Your kingdom, and come to sanctify us, You who are enthroned with the Father on high and are present among us invisibly here. And with Your mighty hand, grant Communion of Your most pure Body and precious Blood to us, and through us to all the people."
 euLI.Key1410.text = "The Holy Gifts for the holy people of God."
 euLI.Key1411.text = "One is Holy, one is Lord, Jesus Christ, to the glory of God the Father. Amen."
@@ -431,7 +437,7 @@ euLI.KeyAB1628.rubric = "As he is saying this exclamation, the Archbishop takes 
 // Part 17 Dismissal
 euLI.Key1700.title = 
 euLI.Key1701.text = "Let us go forth in peace."
-euLI.Key1702.title = "THE PRAYER BEHIND THE AMBON"
+euLI.Key1702.title = "PRAYER BEHIND THE AMBON"
 euLI.Key1702.text = "O Lord, who blesses those who bless You and sanctifies those who put their trust in You, save Your people and bless Your inheritance. Protect the whole body of Your Church. Sanctify those who love the beauty of Your house. Glorify them in return by Your divine power, and forsake us not who have set our hope in You. Grant peace to Your world, to Your churches, to the clergy, to our civic leaders, to the armed forces, and to all Your people. For every good and perfect gift is from above, coming down from You, the Father of lights. To You we offer up glory, thanksgiving, and worship, to the Father and to the Son and to the Holy Spirit, now and ever and to the ages of ages."
 euLI.Key1702.basil.text = 
 euLI.Key1703.text = properties_en_US_goa.media.key
