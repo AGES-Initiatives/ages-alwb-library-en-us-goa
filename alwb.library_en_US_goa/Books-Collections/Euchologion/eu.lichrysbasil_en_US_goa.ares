@@ -48,7 +48,7 @@ euLI.Key0503.text = "Blessed be the entrance of Your holy ones always, now and e
 
 // Part 06 Trisagios Hymn
 euLI.MM.Key0600.text = properties_en_US_goa.media.key
-euLI.Key0601.title = "PRAYER OF THE TRISAGION HYMN"
+euLI.Key0601.title = "PRAYER OF THE TRISAGIOS HYMN"
 euLI.Key0601.text = "O Holy God, who is resting among the holy ones, praised by the Seraphim with the thrice-holy voice, glorified by the Cherubim, and worshiped by every celestial power, You have brought all things into being out of nothing. You have created man according to Your image and likeness and adorned him with all the gifts of Your grace. You give wisdom and understanding to the one who asks, and You overlook not the sinner, but have set repentance as the way of salvation. You have granted us, Your humble and unworthy servants, to stand even at this hour before the glory of Your holy Altar of sacrifice and to offer to You due worship and praise. Master, accept the Trisagion Hymn also from the lips of us sinners, and visit us in Your goodness. Forgive all our voluntary and involuntary transgressions, sanctify our souls and bodies, and grant that we may worship You in holiness all the days of our lives, through the intercessions of the holy Theotokos and of all the saints who have pleased You throughout the ages."
 euLI.Key0602.text = "Dynamis."
 euLI.Key0603.text = properties_en_US_goa.deprecated.key
@@ -407,7 +407,7 @@ euLI.Key1603.text = "Let our mouths be filled with Your praise, O Lord, that we 
 euLI.Key1604.title = "THANKSGIVING"
 euLI.Key1604.text = "Arise! Having partaken of the divine, holy, pure, immortal, heavenly, life-creating, and awesome Mysteries of Christ, let us worthily give thanks to the Lord."
 euLI.Key1605.text = "Having prayed for a perfect, holy, peaceful, and sinless day, let us commend ourselves and one another and our whole life to Christ our God."
-euLI.Key1606.title = "PRAYER AFTER COMMUNION OF ALL"
+euLI.Key1606.title = "PRAYER AFTER EVERYONE COMMUNES"
 euLI.Key1606.text = "We give thanks to You, benevolent Master, benefactor of our souls, that even on this very day You have made us worthy of Your heavenly and immortal sacraments. Make straight our path, fortify us in Your fear, guard our life, make secure our steps, through the prayers and supplications of the glorious Theotokos and ever­ virgin Mary and of all Your saints."
 euLI.Key1606.basil.text = 
 euLI.Key1607.text = prayers_en_US_goa.pr.exc24.text
@@ -442,7 +442,7 @@ euLI.Key1702.text = "O Lord, who blesses those who bless You and sanctifies thos
 euLI.Key1702.basil.text = 
 euLI.Key1703.text = properties_en_US_goa.media.key
 euLI.Key1703_pascha.text = 
-euLI.Key1704.title = "PRAYER ON MINGLING THE ELEMENTS"
+euLI.Key1704.title = "PRAYER AS THE ELEMENTS ARE MINGLED"
 euLI.Key1704.text = "Christ our God, You are the fulfillment of the Law and the Prophets. You have fulfilled the Father’s entire plan of salvation. Fill our hearts with joy and gladness always, now and ever and to the ages of ages. Amen."
 euLI.Key1704.basil.text = 
 euLI.Key1705.text = prayers_en_US_goa.pr.pet37.text
