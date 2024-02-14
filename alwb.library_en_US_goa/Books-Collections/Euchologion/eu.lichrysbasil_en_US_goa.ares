@@ -77,11 +77,11 @@ euLI.Key0707.rubric = "The following litanies are usually omitted."
 
 // Part 08 Ektenia
 euLI.Key0800.title = "LITANY OF FERVENT SUPPLICATION"
-euLI.Key0801.title = "PRAYER OF FERVENT SUPPLICATION"
+euLI.Key0801.title = "SUPPLICATION PRAYER"
 euLI.Key0801.text = "Lord our God, accept this fervent supplication from Your servants, and have mercy on us in accordance with the abundance of Your mercy, and send down Your compassion upon us and upon all Your people who await Your great and rich mercy."
 
 // Part 09 Catechumens
-euLI.Key0900.title = "LITANIES FOR THE CATECHUMENS"
+euLI.Key0900.title = "LITANIES FOR CATECHUMENS"
 euLI.Key0901.text = "Catechumens, pray to the Lord."
 euLI.Key0902.text = "Let us, the faithful, pray for the catechumens."
 euLI.Key0903.text = "That the Lord will have mercy on them."
@@ -90,7 +90,7 @@ euLI.Key0905.text = "That He will reveal to them the gospel of righteousness."
 euLI.Key0906.text = "That He will unite them to His holy, catholic, and apostolic Church."
 euLI.Key0907.text = "Save them, have mercy on them, help them, and protect them, O God, by Your grace."
 euLI.Key0908.text = "Catechumens, bow your heads to the Lord."
-euLI.Key0909.title = "PRAYER FOR THE CATECHUMENS"
+euLI.Key0909.title = "PRAYER FOR CATECHUMENS"
 euLI.Key0909.text = "Lord our God, who dwells on high and watches over the humble, You sent Your only-begotten Son and God, our Lord Jesus Christ, the salvation of the human race. Watch over Your servants, the catechumens, who have inclined their necks to You, and grant them at a proper time the baptism of rebirth, the remission of sins, and the garment of incorruption. Unite them to Your holy, catholic, and apostolic Church, and number them among Your chosen flock."
 euLI.Key0909.basil.text = 
 euLI.Key0910.text = "So that with us they also may glorify Your most honorable and majestic name, of the Father and the Son and the Holy Spirit, now and ever and to the ages of ages."
@@ -437,12 +437,12 @@ euLI.KeyAB1628.rubric = "As he is saying this exclamation, the Archbishop takes 
 // Part 17 Dismissal
 euLI.Key1700.title = "DISMISSAL"
 euLI.Key1701.text = "Let us go forth in peace."
-euLI.Key1702.title = "PRAYER BEHIND THE AMBO"
+euLI.Key1702.title = "AMBO PRAYER"
 euLI.Key1702.text = "O Lord, who blesses those who bless You and sanctifies those who put their trust in You, save Your people and bless Your inheritance. Protect the whole body of Your Church. Sanctify those who love the beauty of Your house. Glorify them in return by Your divine power, and forsake us not who have set our hope in You. Grant peace to Your world, to Your churches, to the clergy, to our civic leaders, to the armed forces, and to all Your people. For every good and perfect gift is from above, coming down from You, the Father of lights. To You we offer up glory, thanksgiving, and worship, to the Father and to the Son and to the Holy Spirit, now and ever and to the ages of ages."
 euLI.Key1702.basil.text = 
 euLI.Key1703.text = properties_en_US_goa.media.key
 euLI.Key1703_pascha.text = 
-euLI.Key1704.title = "PRAYER AS THE ELEMENTS ARE MINGLED"
+euLI.Key1704.title = "PRAYER AS THE GIFTS ARE COLLECTED"
 euLI.Key1704.text = "Christ our God, You are the fulfillment of the Law and the Prophets. You have fulfilled the Father’s entire plan of salvation. Fill our hearts with joy and gladness always, now and ever and to the ages of ages. Amen."
 euLI.Key1704.basil.text = 
 euLI.Key1705.text = prayers_en_US_goa.pr.pet37.text
