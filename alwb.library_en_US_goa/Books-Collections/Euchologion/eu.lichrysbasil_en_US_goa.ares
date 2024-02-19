@@ -50,6 +50,7 @@ euLI.Key0503.text = "Blessed be the entrance of Your holy ones always, now and e
 
 // Part 06 Trisagios Hymn
 euLI.MM.Key0600.text = properties_en_US_goa.media.key
+euLI.Key0600.title = "THE TRISAGIOS HYMN"
 euLI.Key0601.title = "PRAYER OF THE TRISAGIOS HYMN"
 euLI.Key0601.text = "O Holy God, who is resting among the holy ones, praised by the Seraphim with the thrice-holy voice, glorified by the Cherubim, and worshiped by every celestial power, You have brought all things into being out of nothing. You have created man according to Your image and likeness and adorned him with all the gifts of Your grace. You give wisdom and understanding to the one who asks, and You overlook not the sinner, but have set repentance as the way of salvation. You have granted us, Your humble and unworthy servants, to stand even at this hour before the glory of Your holy Altar of sacrifice and to offer to You due worship and praise. Master, accept the Trisagion Hymn also from the lips of us sinners, and visit us in Your goodness. Forgive all our voluntary and involuntary transgressions, sanctify our souls and bodies, and grant that we may worship You in holiness all the days of our lives, through the intercessions of the holy Theotokos and of all the saints who have pleased You throughout the ages."
 euLI.Key0602.text = "Dynamis."
@@ -67,6 +68,7 @@ euLI.Key0612.text = "And hear us."
 euLI.MM.Key0613.text = properties_en_US_goa.media.key
 
 // Part 07 The Readings
+euLI.Key0700.title = "THE READINGS"
 euLI.Key0701.text = "Bless, Master, the herald of the Gospel of the holy, glorious Apostle and Evangelist (Matthew, Mark, Luke or John)."
 euLI.Key0702.text = "May God, through the intercessions of the holy and glorious Apostle and Evangelist (name), grant you who proclaim the Gospel to do so with great power, for the fulfillment of the Gospel of His beloved Son, our Lord Jesus Christ."
 euLI.Key0703.text = "Amen, amen, amen. Be it unto me according to your word."
