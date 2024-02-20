@@ -31,7 +31,7 @@ euLI.Key0110.text = properties_en_US_goa.deprecated.key
 euLI.Key0200.text = "ENARXIS, PEACE LITANY, AND ANTIPHONS" //.text and not .title for the sake of media
 euLI.Key0201.title = "PRAYER OF FIRST ANTIPHON"
 euLI.Key0201.text = "Lord, our God, whose dominion is incomparable and glory incomprehensible; whose mercy is immeasurable, and love for humankind ineffable: Look upon us and upon this holy house in Your loving-kindness, and grant to us and to those who pray with us Your abundant mercy and compassion."
-euLI.Key0202.title = "THE SMALL LITANY"
+euLI.Key0202.title = "Small Litany"
 
 // Part 03 Antiphon 2
 euLI.Key0301.title = "PRAYER OF SECOND ANTIPHON"
@@ -42,7 +42,7 @@ euLI.Key0401.title = "PRAYER OF THIRD ANTIPHON"
 euLI.Key0401.text = "Lord, You have granted us to offer these common prayers in unison and have promised that when two or three agree in Your name, You will grant their requests. Fulfill now, O Lord, the petitions of Your servants as may be of benefit to them, granting us in the present age the knowledge of Your truth, and in the age to come eternal life."
 
 // Part 05 Small Entrance
-euLI.Key0500.title = "THE SMALL ENTRANCE"
+euLI.Key0500.title = "THE ENTRANCE"
 euLI.Key0501.title = "ENTRANCE PRAYER"
 euLI.Key0501.text = "Master, Lord our God, who has established the orders and hosts of angels and archangels in heaven to minister to Your glory, grant that holy angels may enter with us, that together we may celebrate and glorify Your goodness."
 euLI.Key0502.text = "Master, bless the holy entrance."
@@ -162,8 +162,8 @@ euLI.Key1203.text = "Through the mercies of Your only-begotten Son, with whom Yo
 euLI.Key1204.title = "KISS OF PEACE AND CREED"
 euLI.Key1204.text = "Let us love one another, that with oneness of mind we may confess:"
 euLI.Key1205.text = "Father, Son, and Holy Spirit: Trinity, one in essence and undivided."
-//euLI.Key1206.rubric = 
-euLI.Key1206.text = properties_en_US_goa.media.key
+euLI.Key1206.rubric = "Or, for concelebrations:"
+euLI.MM.Key1206.text = properties_en_US_goa.media.key
 euLI.Key1207.text = "Christ is in our midst. He is and always shall be."
 euLI.Key1207a.text = "Christ is in our midst."
 euLI.Key1207b.text = "He is and always shall be."
