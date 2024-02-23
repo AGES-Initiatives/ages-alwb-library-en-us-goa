@@ -112,6 +112,8 @@ cl.eu.lichrysbasil.R012 = "(The Deacon reads the designated pericope of the holy
 cl.eu.lichrysbasil.R013 = "(Following the readings, it is customary for the priest to preach the sermon.)"
 cl.eu.lichrysbasil.R014 = "(The Communion Hymn changes according to the feast day.)"
 
+cl.eu.memorial.sos.R001 = "On Saturdays of the Souls, use the following litany and prayers:"
+
 cl.eu.presanctified.R001 = "(Go to the insert for today’s appointed hymns and readings.)"
 cl.eu.presanctified.R002 = "(Go back to the Presanctified Liturgy booklet.)"
 cl.eu.presanctified.R003 = "(During the first three weeks of Lent, the following litany and the Prayer for those Preparing for Illumination are omitted.)"
