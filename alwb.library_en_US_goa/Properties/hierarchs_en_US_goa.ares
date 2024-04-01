@@ -76,6 +76,16 @@ metropolitan.sanfrancisco.gerasimos.entrance.text = "May the Lord our God rememb
 metropolitan.sanfrancisco.gerasimos.commemoration.text = "Among the first remember, Lord, our Archbishop Gerasimos; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
 metropolitan.sanfrancisco.gerasimos.petOrdination01a.text = "For our Archbishop Gerasimos,"
 
+bishop.athenagoras.sanfrancisco.pet06.text = "For our Archbishop Gerasimos, and our Bishop Athenagoras, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
+bishop.athenagoras.sanfrancisco.pet19.text = "Again we pray for our Archbishop Gerasimos, and our Bishop Athenagoras."
+bishop.athenagoras.commemoration.text = "Among the first remember, Lord, our Bishop Athenagoras; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+bishop.athenagoras.sanfrancisco.petOrdination01a.text = "For our Archbishop Gerasimos, and our Bishop Athenagoras,"
+
+bishop.ioannis.sanfrancisco.pet06.text = "For our Archbishop Gerasimos, and our Bishop Ioannis, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
+bishop.ioannis.sanfrancisco.pet19.text = "Again we pray for our Archbishop Gerasimos, and our Bishop Ioannis."
+bishop.ioannis.commemoration.text = "Among the first remember, Lord, our Bishop Ioannis; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+bishop.ioannis.sanfrancisco.petOrdination01a.text = "For our Archbishop Gerasimos, and our Bishop Ioannis,"
+
 bishop.joachim.dad.pet06.text = "For our Archbishop Elpidophoros, and our Bishop Joachim, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 bishop.joachim.dad.pet19.text = "Again we pray for our Archbishop Elpidophoros, and our Bishop Joachim."
 bishop.joachim.commemoration.text = "Among the first remember, Lord, our Bishop Joachim; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
@@ -91,5 +101,5 @@ bishop.constantine.denver.pet19.text = "Again we pray for our Archbishop Isaiah,
 bishop.constantine.commemoration.text = "Among the first remember, Lord, our Bishop Constantine; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
 bishop.constantine.denver.petOrdination01a.text = "For our Archbishop Isaiah, and our Bishop Constantine,"
 
-ordinand.name.acc.text = "Gabriel" //change for each ordination
-ordinand.name.gen.text = "Gabriel" //change for each ordination
+ordinand.name.acc.text = "John" //change for each ordination
+ordinand.name.gen.text = "John" //change for each ordination
