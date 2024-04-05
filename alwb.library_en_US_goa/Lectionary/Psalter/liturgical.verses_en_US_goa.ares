@@ -12,6 +12,9 @@ psVE.breadhymn.v1.text = "The wealthy have become poor and gone hungry, but thos
 //psLI.trisagionbaptized.v3.text = "have put on Christ."
 //psLI.trisagionbaptized.v4.text = "Alleluia."
 
+psLI.hierarchical.trisagionblessing.v1.info = "Ps. 79:15"
+psLI.hierarchical.trisagionblessing.v1.text = "Lord, Lord, look down from heaven and behold, visit and perfect this vineyard, which your right hand has planted."
+
 psLI.aftercommunion.title = 
 psLI.aftercommunion.v1.info = ps_en_US_goa.psa112.v2.number //"112:2"
 psLI.aftercommunion.v1.incipit = "Blessed be the name of the Lord…"
