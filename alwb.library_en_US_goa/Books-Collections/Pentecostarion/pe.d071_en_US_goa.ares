@@ -30,9 +30,9 @@ peLI.CommunionHymn.incipit = "…"
 peLI.CommunionHymn.text = 
 
 peLI.AfterCommunion.mode = miscellanea_en_US_goa.misc.Mode5
-peLI.AfterCommunion.incipit = peMA.Troparion.incipit
-peLI.AfterCommunion.text = peMA.Troparion.text
+peLI.AfterCommunion.incipit = pe.d071_en_US_goa.peMA.Troparion.incipit
+peLI.AfterCommunion.text = pe.d071_en_US_goa.peMA.Troparion.text
 
 peLI.AfterCommunion2.mode = miscellanea_en_US_goa.misc.Mode5 //instead of Blessed be the name
-peLI.AfterCommunion2.incipit = peMA.Troparion.incipit
-peLI.AfterCommunion2.text = peMA.Troparion.text
+peLI.AfterCommunion2.incipit = pe.d071_en_US_goa.peMA.Troparion.incipit
+peLI.AfterCommunion2.text = pe.d071_en_US_goa.peMA.Troparion.text
