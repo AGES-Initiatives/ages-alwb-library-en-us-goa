@@ -36,13 +36,13 @@ metropolitan.chicago.nathanael.entrance.text = "May the Lord our God remember ou
 metropolitan.chicago.nathanael.commemoration.text = "Among the first remember, Lord, our Archbishop Nathanael; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
 metropolitan.chicago.nathanael.petOrdination01a.text = "For our Archbishop Nathanael,"
 
-metropolitan.denver.isaiah.pet06.text = "For our Archbishop Isaiah, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
-metropolitan.denver.isaiah.fimi.text = "Isaiah the most-reverend and God-chosen Metropolitan of the Holy Metropolis of Denver, our Father and Chief Shepherd: Many years!"
-metropolitan.denver.isaiah.away_fimi.text = "Isaiah the most-reverend and God-chosen Metropolitan of the Holy Metropolis of Denver, our Father and Hierarch: Many years!"
-metropolitan.denver.isaiah.pet19.text = "Again we pray for our Archbishop Isaiah."
-metropolitan.denver.isaiah.entrance.text = "May the Lord our God remember our Archbishop Isaiah, "
-metropolitan.denver.isaiah.commemoration.text = "Among the first remember, Lord, our Archbishop Isaiah; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
-metropolitan.denver.isaiah.petOrdination01a.text = "For our Archbishop Isaiah,"
+metropolitan.denver.constantine.pet06.text = "For our Archbishop Constantine, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
+metropolitan.denver.constantine.fimi.text = "Constantine the most-reverend and God-chosen Metropolitan of the Holy Metropolis of Denver, our Father and Chief Shepherd: Many years!"
+metropolitan.denver.constantine.away_fimi.text = "Constantine the most-reverend and God-chosen Metropolitan of the Holy Metropolis of Denver, our Father and Hierarch: Many years!"
+metropolitan.denver.constantine.pet19.text = "Again we pray for our Archbishop Constantine."
+metropolitan.denver.constantine.entrance.text = "May the Lord our God remember our Archbishop Constantine, "
+metropolitan.denver.constantine.commemoration.text = "Among the first remember, Lord, our Archbishop Constantine; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
+metropolitan.denver.constantine.petOrdination01a.text = "For our Archbishop Constantine,"
 
 metropolitan.detroit.nicholas.pet06.text = "For our Archbishop Nicholas, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
 metropolitan.detroit.nicholas.fimi.text = "Nicholas, the Most-Reverend and God-Chosen Metropolitan of the Holy Metropolis of Detroit, our Father and Chief Shepherd: Many years!"
@@ -96,10 +96,5 @@ bishop.timothy.chicago.pet19.text = "Again we pray for our Archbishop Nathanael,
 bishop.timothy.commemoration.text = "Among the first remember, Lord, our Bishop Timothy; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
 bishop.timothy.chicago.petOrdination01a.text = "For our Archbishop Nathanael, and our Bishop Timothy,"
 
-bishop.constantine.denver.pet06.text = "For our Archbishop Isaiah, and our Bishop Constantine, for the honorable presbyterate, for the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord."
-bishop.constantine.denver.pet19.text = "Again we pray for our Archbishop Isaiah, and our Bishop Constantine."
-bishop.constantine.commemoration.text = "Among the first remember, Lord, our Bishop Constantine; grant him to Your holy churches in peace, safety, honor, and health, unto length of days, rightly teaching the word of Your truth."
-bishop.constantine.denver.petOrdination01a.text = "For our Archbishop Isaiah, and our Bishop Constantine,"
-
-ordinand.name.acc.text = "Gabriel" //change for each ordination
-ordinand.name.gen.text = "Gabriel" //change for each ordination
+ordinand.name.acc.text = "name" //change for each ordination
+ordinand.name.gen.text = "name" //change for each ordination
