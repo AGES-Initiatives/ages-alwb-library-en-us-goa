@@ -22,7 +22,9 @@ ru.BlessingWithTheCross = "(blessing with the cross)"
 
 ru.ChoirLeftBegins = 
 
-ru.ChoirRightBegins = 
+ru.ChoirRightBegins = "The Choir repeats twice."
+
+ru.ChoirRepeatsTwice = ""
 
 ru.ContinueBasilLiturgy = 
 
