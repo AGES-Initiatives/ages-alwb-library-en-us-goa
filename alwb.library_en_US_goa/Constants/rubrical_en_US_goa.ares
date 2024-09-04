@@ -64,6 +64,8 @@ ru.HolidayWineOil =
 
 ru.IfExistsIfNot = 
 
+ru.IfLityDoneAtVespers = ""
+
 ru.IfLityNotDoneAtVespers = 
 
 ru.InALowVoice = "(in a low voice)"
@@ -101,6 +103,8 @@ ru.Or =
 ru.OrAccordingToCommonPractice = 
 
 ru.OrAccordingToOlderPractice = 
+
+ru.OtherwiseTheFollowing = ""
 
 ru.Read = 
 
