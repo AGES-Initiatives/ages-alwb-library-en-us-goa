@@ -1,5 +1,6 @@
 A_Resource_Whose_Name = eu.ordination_en_US_goa
 
+euORD.SD.title = "Ordination to the Sub-Diaconate"
 euORD.SD.p100.title = "Ordination to the Sub-Diaconate"
 euORD.SD.r01 = "At the conclusion of Matins the candidate is brought before the Hierarch at the throne, and the canonical testimonial (symmartyria) is read. The Hierarch then makes the sign of the cross three times over the candidate, saying:"
 euORD.SD.r02 = "The the Hierarch says the following prayer."
@@ -12,6 +13,7 @@ euORD.SD.p102.text = "All the faithful!"
 euORD.SD.r04 = "The newly-ordained sub-deacon is led to stand before the icon of our Lord Jesus Christ, where he prays silently."
 euORD.SD.r05 = ""
 
+euORD.DE.title = "Ordination to the Diaconate"
 euORD.DE.p200.title = "Ordination to the Diaconate"
 euORD.DE.r01 = "During the Liturgy, after the Hierarch has intoned “And may the mercies of our great God and Savior Jesus Christ be with you all,” two Deacons exit, and bring the sub-deacon is before the Hierarch. They stand on the solea, facing the Hierarch who stands in the Beautiful Gate."
 euORD.DE.p201.text = "Command."
@@ -55,6 +57,7 @@ euORD.DE.r16 = "The Divine Liturgy continues."
 euORD.DE.r17 = 
 euORD.DE.r18 = 
 
+euORD.PR.title = "Ordination to the Priesthood"
 euORD.PR.p300.title = "Ordination to the Priesthood"
 euORD.PR.r01 = "During the Divine Liturgy, after the completion of the Cherubic Hymn following the Great Entrance, two priests exit, and bring the deacon before the bishop. They stand on the solea, facing the bishop who stands in the Royal Doors."
 euORD.PR.p301.text = "Command." 
@@ -84,6 +87,7 @@ euORD.PR.p307.text = "Receive this Divine Trust, and guard it until the Second C
 euORD.PR.r14 = ""
 euORD.PR.r15 = ""
 
+euORD.EP.title = "Ordination to the Episcopate"
 euORD.EP.p400.title = "Ordination to the Episcopate"
 euORD.EP.r01 = "When the Doxology begins, the clergy, the celebrating Hierarchs and finally the Archbishop, surrounded by his two Deacons, exit the Altar from the Royal Gates and assume their appointed positions on the Soleas. The Bishop-Elect remains inside the Altar."
 euORD.EP.p401.text = "Hierarchs, come forward."
@@ -144,6 +148,7 @@ euORD.EP.r19 = "Before the Dismissal the Archbishop once again presents the newl
 euORD.EP.p417.text = "Receive this Staff to shepherd the flock of Christ entrusted to you. To the obedient let it be a help and a support. With it, lead the disobedient and the wayward to admonishment and instruction."
 euORD.EP.r20 = "Upon receiving the Episcopal staff and Mitre, the newly ordained Bishop is then led for the first time to the Episcopal Throne by the two deacons, who hold the Dikerotrikera, in order to offer the Dismissal Prayer (of Pentecost)."
 
+euORD.AD.title = ""
 euORD.AD.p500.title = 
 euORD.AD.r01 = 
 euORD.AD.r02 = 
@@ -156,6 +161,7 @@ euORD.AD.p503.text =
 euORD.AD.r06 = 
 euORD.AD.p504.text = 
 
+euORD.OI.title = ""
 euORD.OI.p600.title = 
 euORD.OI.r01 = 
 euORD.OI.p601.text = 
@@ -163,6 +169,7 @@ euORD.OI.p601a.text =
 euORD.OI.p601b.text = 
 euORD.OI.p601c.text = 
 
+euORD.SF.title = ""
 euORD.SF.p700.title = 
 euORD.SF.r01 = 
 euORD.SF.p701.text = 
@@ -175,6 +182,7 @@ euORD.SF.p702a.text =
 euORD.SF.p702b.text = 
 euORD.SF.p702c.text = 
 
+euORD.PP.title = ""
 euORD.PP.p800.title = 
 euORD.PP.r01 = 
 euORD.PP.p801.text = 

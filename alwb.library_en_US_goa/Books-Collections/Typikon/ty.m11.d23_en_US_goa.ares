@@ -1,0 +1,47 @@
+A_Resource_Whose_Name = ty.m11.d23_en_US_goa 
+
+tyAME.localsaint1.supplication = ""
+tyAME.localsaint1.dismissal = ""
+tyAME.localchurch.title = ""
+tyAME.conVE.SticBoth.churchname.text = ""
+tyAME.consecration.name = ""
+tyAME.consecration.prayer1 = ""
+tyAME.consecration.greatlitany.finalpetition.name = "" //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+tyAME.relic1.name = ""
+tyAME.relic2.name = ""
+tyAME.relic3.name = ""
+tyAME.ordinand.deacon.acc.text = ""
+tyAME.ordinand.deacon.gen.text = ""
+tyAME.ordinand.priest.acc.text = ""
+tyAME.ordinand.priest.gen.text = ""
+
+tyDEN.localsaint1.supplication = ""
+tyDEN.localsaint1.dismissal = names_en_US_goa.name.george.localsaint1.dismissal
+tyDEN.localchurch.title = ""
+tyDEN.conVE.SticBoth.churchname.text = ""
+tyDEN.consecration.name = ""
+tyDEN.consecration.prayer1 = ""
+tyDEN.consecration.greatlitany.finalpetition.name = "" //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+tyDEN.relic1.name = ""
+tyDEN.relic2.name = ""
+tyDEN.relic3.name = ""
+tyDEN.ordinand.deacon.acc.text = "Michael"
+tyDEN.ordinand.deacon.gen.text = "Michael"
+tyDEN.ordinand.priest.acc.text = ""
+tyDEN.ordinand.priest.gen.text = ""
+
+tyDET.localsaint1.supplication = ""
+tyDET.localsaint1.dismissal = ""
+tyDET.localchurch.title = ""
+tyDET.conVE.SticBoth.churchname.text = ""
+tyDET.consecration.name = ""
+tyDET.consecration.prayer1 = ""
+tyDET.consecration.greatlitany.finalpetition.name = "" //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+tyDET.relic1.name = ""
+tyDET.relic2.name = ""
+tyDET.relic3.name = ""
+tyDET.ordinand.deacon.acc.text = ""
+tyDET.ordinand.deacon.gen.text = ""
+tyDET.ordinand.priest.acc.text = ""
+tyDET.ordinand.priest.gen.text = ""
+
