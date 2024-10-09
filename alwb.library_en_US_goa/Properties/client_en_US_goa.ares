@@ -56,7 +56,7 @@ cl.Kontakion1.text = "(Kontakion for the Parish Church)"
 cl.conVE.SticBoth.churchname.text = "of (name of the church),"
 cl.consecration.name = "name of the church;"
 cl.consecration.prayer1 = "name of the church,"
-cl.consecration.greatlitany.finalpetition.name = //(and name of saint of the church,)
+cl.consecration.greatlitany.finalpetition.name = "(and saint of church)"
 
 cl.localpatronsaint2.supplication = "(of the chapel);"
 cl.localpatronsaint2.dismissal = "(of the chapel);"

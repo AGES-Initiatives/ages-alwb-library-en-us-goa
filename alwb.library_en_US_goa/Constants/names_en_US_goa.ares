@@ -39,9 +39,9 @@ name.haralambos.relic3.name = "and the holy and glorious hieromartyr Haralambos 
 name.marina.relic1.name = "the holy Great-martyr Marina,"
 name.marina.relic3.name = "and the holy Great-martyr Marina,"
 
-name.martyrsofsamothraki.relic1.name = "of the holy and glorious Five Neo-martyrs of Samothraki,"
-name.martyrsofsamothraki.relic2.name = "Manuel, Theodore, Michael,"
-name.martyrsofsamothraki.relic3.name = "George, and George,"
+name.neomartyrsofsamothraki.relic1.name = "of the holy and glorious Five Neo-martyrs of Samothraki,"
+name.neomartyrsofsamothraki.relic2.name = "Manuel, Theodore, Michael,"
+name.neomartyrsofsamothraki.relic3.name = "George, and George,"
 
 name.nicholas.localsaint1.supplication = ""
 name.nicholas.localsaint1.dismissal = "our Father among the Saints Nicholas the Wonder-worker, Archbishop of Myra in Lycia,"
