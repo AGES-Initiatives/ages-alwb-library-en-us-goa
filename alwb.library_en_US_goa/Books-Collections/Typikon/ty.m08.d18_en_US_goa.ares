@@ -2,6 +2,9 @@ A_Resource_Whose_Name = ty.m08.d18_en_US_goa
 
 tyAME.localsaint1.supplication = names_en_US_goa.name.nicholas.localsaint1.supplication
 tyAME.localsaint1.dismissal = names_en_US_goa.name.nicholas.localsaint1.dismissal
+tyAME.dis00.resurrection = dismissals_en_redirects_goarch.dis00.resurrection
+tyAME.meDA.insert1 = me.m10.d18_en_redirects_goarch.meDA.insert1
+tyAME.meDA.insert2 = me.m10.d18_en_redirects_goarch.meDA.insert2
 tyAME.localchurch.title = names_en_US_goa.name.nicholas.localchurch.title
 tyAME.conVE.SticBoth.churchname.text = names_en_US_goa.name.nicholas.conVE.SticBoth.churchname.text
 tyAME.consecration.name = names_en_US_goa.name.nicholas.consecration.name
