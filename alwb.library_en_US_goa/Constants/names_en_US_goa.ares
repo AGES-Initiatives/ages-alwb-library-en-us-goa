@@ -1,9 +1,21 @@
 A_Resource_Whose_Name = names_en_US_goa
 
-name.argyriosepanomites.relic1.name = "the holy and glorious Neo-martyr Argyrios Epanomites,"
+name.sample.localsaint1.supplication = "(full name of saint, if not normally included in supplication, and comma)"
+name.sample.localsaint1.dismissal = "(\"of\" full name of saint and comma)"
+name.sample.localchurch.title = "(\"For\" short name of church or saint period)"
+name.sample.conVE.SticBoth.churchname.text = "(\"of\" short name of church or saint and comma)"
+name.sample.consecration.name = "(full name of church or saint and comma)"
+name.sample.consecration.prayer1 = "(full name of church or saint and period)"
+name.sample.consecration.greatlitany.finalpetition.name = "(\"and\" short name of saint and comma"
+name.sample.relic1or2.name = "(full name of saint and comma)"
+name.sample.relic1.name = "(like relic1or2, when group of saints is divided into three)"
+name.sample.relic2.name = "(like relic1or2, when group of saints is divided into three)"
+name.sample.relic3.name = "(\"and\" full name of saint and comma)"
+
+name.argyriosepanomites.relic1or2.name = "the holy and glorious Neo-martyr Argyrios Epanomites,"
 name.argyriosepanomites.relic3.name = "and the holy and glorious Neo-martyr Argyrios Epanomites,"
 
-name.barbara.relic1.name = "the holy and glorious Great Martyr Barbara,"
+name.barbara.relic1or2.name = "the holy and glorious Great Martyr Barbara,"
 name.barbara.relic3.name = "and the holy and glorious Great Martyr Barbara,"
 
 name.catherine.localsaint1.supplication = "the holy Great-martyr and all-wise Catherine,"
@@ -36,10 +48,10 @@ name.george.consecration.name = "the holy and glorious Great-martyr George the T
 name.george.consecration.prayer1 = "the holy and glorious Great-martyr George the Trophy-bearer."
 name.george.consecration.greatlitany.finalpetition.name = "and St. George," //(and St. of parish)
 
-name.haralambos.relic1.name = "the holy and glorious hieromartyr Haralambos the Wonderworker,"
+name.haralambos.relic1or2.name = "the holy and glorious hieromartyr Haralambos the Wonderworker,"
 name.haralambos.relic3.name = "and the holy and glorious hieromartyr Haralambos the Wonderworker,"
 
-name.marina.relic1.name = "the holy Great-martyr Marina,"
+name.marina.relic1or2.name = "the holy Great-martyr Marina,"
 name.marina.relic3.name = "and the holy Great-martyr Marina,"
 
 name.neomartyrsofsamothraki.relic1.name = "of the holy and glorious Five Neo-martyrs of Samothraki,"
@@ -54,8 +66,8 @@ name.nicholas.consecration.name = "our Father among the Saints Nicholas the Wond
 name.nicholas.consecration.prayer1 = "our Father among the Saints Nicholas the Wonder-worker, Archbishop of Myra in Lycia."
 name.nicholas.consecration.greatlitany.finalpetition.name = "and St. Nicholas," //(and St. of parish)
 
-name.panteleimon.relic1.name = "the holy and glorious Great Martyr and Physician Panteleimon,"
+name.panteleimon.relic1or2.name = "the holy and glorious Great Martyr and Physician Panteleimon,"
 name.panteleimon.relic3.name = "and the holy and glorious Great Martyr and Physician Panteleimon,"
 
-name.savasfathers.relic1.name = "the holy Fathers who were slaughtered in the Monastery of St. Savas,"
+name.savasfathers.relic1or2.name = "the holy Fathers who were slaughtered in the Monastery of St. Savas,"
 name.savasfathers.relic3.name = "and the holy Fathers who were slaughtered in the Monastery of St. Savas,"
