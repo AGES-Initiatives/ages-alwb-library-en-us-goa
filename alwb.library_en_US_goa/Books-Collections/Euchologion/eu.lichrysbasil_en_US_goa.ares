@@ -87,20 +87,9 @@ euLI.Key0801.text = "Lord our God, accept this fervent supplication from Your se
 
 // Part 09 Catechumens
 euLI.Key0900.title = "LITANIES FOR CATECHUMENS"
-euLI.Key0901.text = "Catechumens, pray to the Lord."
-euLI.Key0902.text = "Let us, the faithful, pray for the catechumens."
-euLI.Key0903.text = "That the Lord will have mercy on them."
-euLI.Key0904.text = "That He will teach them the word of truth."
-euLI.Key0905.text = "That He will reveal to them the gospel of righteousness."
-euLI.Key0906.text = "That He will unite them to His holy, catholic, and apostolic Church."
-euLI.Key0907.text = "Save them, have mercy on them, help them, and protect them, O God, by Your grace."
-euLI.Key0908.text = "Catechumens, bow your heads to the Lord."
 euLI.Key0909.title = "PRAYER FOR CATECHUMENS"
 euLI.Key0909.text = "Lord our God, who dwells on high and watches over the humble, You sent Your only-begotten Son and God, our Lord Jesus Christ, the salvation of the human race. Watch over Your servants, the catechumens, who have inclined their necks to You, and grant them at a proper time the baptism of rebirth, the remission of sins, and the garment of incorruption. Unite them to Your holy, catholic, and apostolic Church, and number them among Your chosen flock."
 euLI.Key0909.basil.text = 
-euLI.Key0910.text = "So that with us they also may glorify Your most honorable and majestic name, of the Father and the Son and the Holy Spirit, now and ever and to the ages of ages."
-euLI.Key0911.text = "Those who are catechumens, depart, catechumens depart, all those who are catechumens, depart. Let no catechumen remain."
-euLI.Key0912.text = "Again and again, in peace, let all of us, the faithful, pray to the Lord."
 
 // Part 10 Prayers of the Faithful
 euLI.Key1000.title = "LITANIES FOR THE FAITHFUL"
