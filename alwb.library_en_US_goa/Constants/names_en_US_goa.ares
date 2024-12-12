@@ -20,6 +20,7 @@ name.barbara.relic3.name = "and the holy and glorious Great Martyr Barbara,"
 
 name.catherine.localsaint1.supplication = "the holy Great-martyr and all-wise Catherine,"
 name.catherine.localsaint1.dismissal = "of the holy Great-martyr and all-wise Catherine,"
+name.catherine.localchurch.title = "For St. Catherine."
 
 name.constantine.localsaint1.supplication = "the holy, glorious, great, God-crowned Sovereigns Constantine and Helen, the Equals to the Apostles,"
 name.constantine.localsaint1.dismissal = "of the holy, glorious, great, God-crowned Sovereigns Constantine and Helen, the Equals to the Apostles,"
@@ -79,3 +80,7 @@ name.panteleimon.relic3.name = "and the holy and glorious Great Martyr and Physi
 
 name.savasfathers.relic1or2.name = "the holy Fathers who were slaughtered in the Monastery of St. Savas,"
 name.savasfathers.relic3.name = "and the holy Fathers who were slaughtered in the Monastery of St. Savas,"
+
+name.spyridon.localsaint1.supplication = ""
+name.spyridon.localsaint1.dismissal = "of our father among the Saints Spyridon the Wonder-worker, Bishop of Trimythous,"
+name.spyridon.localchurch.title = "For St. Spyridon."
