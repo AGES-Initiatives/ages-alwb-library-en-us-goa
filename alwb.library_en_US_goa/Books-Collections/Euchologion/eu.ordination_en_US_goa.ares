@@ -84,8 +84,9 @@ euORD.PR.r11 = "The Hierarch expresses his love, i.e. he kisses the forehead of 
 euORD.PR.r12 = "The Divine Liturgy continues."
 euORD.PR.r13 = "After the consecration of the Eucharist, the bishop places the body of Christ into the new priest’s hands with the following admonition:"
 euORD.PR.p307.text = "Receive this Divine Trust, and guard it until the Second Coming of our Lord Jesus Christ, at which time He will demand It from you."
-euORD.PR.r14 = ""
-euORD.PR.r15 = ""
+euORD.PR.r14 = "The new priest receives it, kisses the bishop's hand, and goes and stands in his place at the holy Table, quietly praying: “Lord, have mercy,” and Psalm 50."
+euORD.PR.r15 = "When the bishop is about to say, “The holy gifts are for the holy,” the new priest stands at the bishop's left, and the bishop takes the holy Bread from him and returns it to the holy Table."
+euORD.PR.r16 = "The new priest receives holy communion from the bishop first before the others. He also says the Ambo Prayer."
 
 euORD.EP.title = "Ordination to the Episcopate"
 euORD.EP.p400.title = "Ordination to the Episcopate"
