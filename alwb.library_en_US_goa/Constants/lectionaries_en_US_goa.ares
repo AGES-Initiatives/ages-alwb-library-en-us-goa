@@ -113,6 +113,8 @@ lecEV.me.m10.dHF.R01 =
 lecEV.me.m12.dFF.R01 = 
 lecEV.me.m12.dSunBE.R01 = 
 
+lecLE.SetEachYear.text = "The reading for this day must be reset each year."
+
 lecLE.separator = 
 lecLE.openP = 
 lecLE.closeP = 
