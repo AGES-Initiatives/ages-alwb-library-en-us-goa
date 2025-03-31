@@ -54,8 +54,8 @@ cl.Kontakion1.melody =
 cl.Kontakion1.text = "(Kontakion for the Parish Church)"
 
 cl.conVE.SticBoth.churchname.text = "of (name of the church),"
-cl.consecration.name = "name of the church;"
-cl.consecration.prayer1 = "name of the church,"
+cl.consecration.name = "(name of the church);"
+cl.consecration.prayer1 = "(name of the church)."
 cl.consecration.greatlitany.finalpetition.name = "(and saint of church)"
 
 cl.localpatronsaint2.supplication = "(of the chapel);"
@@ -74,19 +74,19 @@ cl.Kontakion2.text = "(Kontakion of the Parish Chapel.)"
 
 cl.consecration2.name = "(name of the Chapel),"
 
-cl.relics.saint1 = 
+cl.relics.saint1 = "(name of first relic saint),"
 cl.relics.saint1.Apolytikion.title = 
 cl.relics.saint1.Apolytikion.mode = 
 cl.relics.saint1.Apolytikion.melody = 
 cl.relics.saint1.Apolytikion.text = 
 
-cl.relics.saint2 = 
+cl.relics.saint2 = "(name of second relic saint),"
 cl.relics.saint2.Apolytikion.title = 
 cl.relics.saint2.Apolytikion.mode = 
 cl.relics.saint2.Apolytikion.melody = 
 cl.relics.saint2.Apolytikion.text = 
 
-cl.relics.saint3 = 
+cl.relics.saint3 = "and (name of third relic saint),"
 cl.relics.saint3.Apolytikion.title = 
 cl.relics.saint3.Apolytikion.mode = 
 cl.relics.saint3.Apolytikion.melody = 
