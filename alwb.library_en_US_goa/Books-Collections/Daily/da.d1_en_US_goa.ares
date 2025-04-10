@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = da.d1_en_US_goa
+
+daDay.text = "Sunday."
+daForDay.text = ""
+daOnDay.text = "on Sunday,"
+daCommemoration.text = ""
+daDismissal1.text = dismissals_en_US_goa.dis00.resurrection
+daDismissal2.text = dismissals_en_US_goa.dis00.andresurrection
+
+daVE.OnTheDayBefore.text = ""
+daVE.OnTheEveningBefore.text = template.titles_en_US_goa.d.onSaturdayEvening
+
+daLI.GospelAlleluia.text = prayers_en_US_goa.pr.Alleluia3.text
+
+daLI.MM.CommunionHymn.text = properties_en_US_goa.media.key

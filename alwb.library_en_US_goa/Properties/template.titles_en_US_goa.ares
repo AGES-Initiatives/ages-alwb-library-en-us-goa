@@ -1,0 +1,375 @@
+A_Resource_Whose_Name = template.titles_en_US_goa
+
+//books - collections
+eo = "EOTHINA"
+eu = "EUCHOLOGION"
+he = "HEIRMOLOGION"
+hi = "PRIESTS HANDBOOK"
+ho = "HOROLOGION"
+ka = "KATAVASIAS"
+le = "LECTIONARY" // this should be divided into three sections: prophecies, epistles, gospels
+me = "MENAION"
+oc = "OCTOECHOS"
+oc.html.tab = "OCTOECHOS"
+oc.pdf.header = "Octoechos"
+oc.pdf.cover = "Octoechos"
+pe = "PENTECOSTARION"
+ps = "PSALTER"
+sy = "SYNAXARION"
+tr = "TRIODION"
+
+//service days
+sat = "SATURDAY"
+sun = "SUNDAY"
+wkd = "WEEKDAY"
+
+//sacraments
+bap.html.tab = "BAPTISM"
+bap.pdf.header = ""
+bap.pdf.cover = ""
+
+cdo.html.tab = "CHURCH DOOR-OPENING"
+cdo.pdf.header = ""
+cdo.pdf.cover = ""
+
+chi.html.tab = "CHILDBIRTH"
+chi.pdf.header = ""
+chi.pdf.cover = ""
+
+con.html.tab = "CONSECRATION"
+con.pdf.header = "Consecration"
+con.pdf.cover = ""
+
+fun.html.tab = "FUNERAL"
+fun.pdf.header = ""
+fun.pdf.cover = ""
+
+mem.html.tab = "MEMORIAL"
+mem.pdf.header = ""
+mem.pdf.cover = ""
+
+ord.html.tab = "ORDINATION"
+ord.pdf.header = ""
+ord.pdf.cover = ""
+
+pen.html.tab = "PENANCE"
+pen.pdf.header = ""
+pen.pdf.cover = ""
+
+swb.html.tab = "SMALL BLESSING OF WATER"
+swb.pdf.header = ""
+swb.pdf.cover = ""
+
+unc.html.tab = "HOLY UNCTION"
+unc.pdf.header = "The Service of Holy Unction"
+unc.pdf.cover = "The Service of Holy Unction"
+
+wed.html.tab = "WEDDING"
+wed.pdf.header = ""
+wed.pdf.cover = ""
+
+//service names
+service = "Service"
+
+co.html.tab = "COMPLINE"
+co.pdf.header = "Compline"
+co.pdf.cover = "The Service of Compline"
+co.smallcompline.html.tab = "Small Compline"
+co.smallcompline.pdf.cover = "Small Compline"
+co.smallcompline.pdf.header = "(Small)"
+co.smallcomplinewithcanon.html.tab = "Small Compline and Canon"
+co.smallcomplinewithcanon.pdf.cover = "Small Compline and Canon"
+co.smallcomplinewithcanon.pdf.header = "SMALL COMPLINE AND CANON"
+co.akathist.html.tab = "SMALL COMPLINE WITH AKATHIST"
+co.akathist.pdf.header = "Small Compline with Akathist"
+co.akathist.pdf.cover = "Small Compline with Akathist"
+co.salutations.pdf.cover = "Small Compline with Salutations"
+co.salutations.pdf.header = "(Small) with Salutations"
+co.greatcanon.html.tab = "Small Compline with Great Canon"
+co.greatcanon.pdf.cover = "Small Compline with Great Canon"
+co.greatcanon.pdf.header = "Small Compline with Great Canon"
+co.greatcompline.pdf.cover = "Great Compline"
+co.greatcompline.pdf.header = "(Great)"
+co.christmasvigil.html.tab = "CHRISTMAS VIGIL"
+co.christmasvigil.pdf.cover = "Christmas Vigil: Compline, Lity, End of Vespers"
+co.christmasvigil.pdf.header = "Christmas Vigil"
+co.epiphanyvigil.html.tab = "EPIPHANY VIGIL"
+co.epiphanyvigil.pdf.cover = "Epiphany Vigil: Compline, Lity, End of Vespers"
+co.epiphanyvigil.pdf.header = "Epiphany Vigil"
+
+co1.html.tab = "PRE-RESURRECTION SERVICE" //this is the pre-resurrection service of Pascha
+co1.pdf.header = "Pre-Resurrection Service"
+co1.pdf.cover = "Pre-Resurrection Service"
+
+co2.html.tab = "SMALL COMPLINE - SALUTATIONS"
+co2.pdf.header = "Small Compline and Salutations to the Theotokos"
+co2.pdf.cover = "Small Compline and Salutations to the Theotokos"
+
+co3.html.tab = "SMALL COMPLINE - AKATHIST" 
+co3.pdf.header = "Small Compline and Akathist Hymn"
+co3.pdf.cover = "Small Compline and Akathist Hymn"
+
+co4.html.tab = "SMALL COMPLINE - GREAT CANON" 
+co4.pdf.header = "Small Compline and Great Canon"
+co4.pdf.cover = "Small Compline and Great Canon"
+
+co6.html.tab = "PASCHAL COMPLINE"
+co6.pdf.header = "Paschal Compline"
+co6.pdf.cover = "Paschal Compline"
+
+dr.html.tab = "DAILY READINGS"
+dr.pdf.header = "Daily Readings"
+dr.pdf.cover = "Daily Readings"
+
+em.html.tab = "MATINS" //this is for Matins in the evening during Holy Week
+em.pdf.header = "Matins"
+em.pdf.cover = "Matins"
+
+em3.html.tab = "LAMENTATIONS"
+em3.pdf.header = "Graveside Lamentations - Complete Text"
+em3.pdf.cover = "Graveside Lamentations - Complete Text"
+
+gc.html.tab = "GREAT COMPLINE"
+gc.pdf.header = "Great Compline"
+gc.pdf.cover = "Great Compline"
+
+gh.html.tab = "GREAT HOURS"
+gh.pdf.header = "Great Hours"
+gh.pdf.cover = "The Great Hours"
+
+gp.html.tab = "PARAKLESIS"
+gp.pdf.header = "Great Paraklesis"
+gp.pdf.cover = "Service of the Great Paraklesis"
+
+h1.html.tab = "FIRST HOUR"
+h1.pdf.header = "First Hour"
+h1.pdf.cover = "The First Hour"
+
+h13.html.tab = "PASCHAL HOURS"
+h13.pdf.header = "The Paschal Hours"
+h13.pdf.cover = "The Paschal Hours"
+
+h3.html.tab = "THIRD HOUR"
+h3.pdf.header = "Third Hour"
+h3.pdf.cover = "The Third Hour"
+
+h36.html.tab = "TRITHEKTI"
+h36.pdf.header = "The Trithekti"
+h36.pdf.cover = "The Trithekti"
+
+h6.html.tab = "SIXTH HOUR"
+h6.pdf.header = "Sixth Hour"
+h6.pdf.cover = "The Sixth Hour"
+
+h61.html.tab = "TYPIKA SERVICE (no priest)"
+h61.pdf.header = "Typika Service (no priest)"
+h61.pdf.cover = "Typika Service (no priest)"
+
+h9.html.tab = "NINTH HOUR"
+h9.pdf.header = "Ninth Hour"
+h9.pdf.cover = "The Ninth Hour"
+
+h91.html.tab = "DAILY READINGS"
+h91.pdf.header = "Daily Readings"
+h91.pdf.cover = "Daily Readings"
+
+h92.html.tab = "SPECIAL CEREMONY"
+h92.pdf.header = "Special Ceremony"
+h92.pdf.cover = "Special Ceremony"
+
+hw.pdf.cover = "Holy Week"
+
+li.html.tab = "LITURGY OF ST. JOHN CHRYSOSTOM"
+li.pdf.header = "Divine Liturgy of St. John Chrysostom"
+li.pdf.cover = "The Divine Liturgy of St. John Chrysostom"
+
+li1.html.tab = "LITURGY OF ST. BASIL"
+li1.pdf.header = "Divine Liturgy of St. Basil"
+li1.pdf.cover = "The Divine Liturgy of St. Basil the Great"
+
+li2.html.tab = "LITURGY - VARIABLES / ANTIPHONS"
+li2.pdf.header = "Divine Liturgy - Variables / Antiphons"
+li2.pdf.cover = "The Divine Liturgy - Variables / Antiphons"
+
+li3.html.tab = "LITURGY - VARIABLES / TYPIKA"
+li3.pdf.header = "Divine Liturgy - Variables / Typika"
+li3.pdf.cover = "The Divine Liturgy - Variables / Typika"
+
+li4.html.tab = "DIVINE LITURGY"
+li4.pdf.header = "Divine Liturgy"
+li4.pdf.cover = "The Divine Liturgy"
+
+li5.html.tab = "LITURGY - VARIABLES"
+li5.pdf.header = "Divine Liturgy - Variables"
+li5.pdf.cover = "The Divine Liturgy - Variables"
+
+li6.html.tab = "LITURGY OF ST. JOHN CHRYSOSTOM"
+li6.pdf.header = "Divine Liturgy of St. John Chrysostom"
+li6.pdf.cover = "The Divine Liturgy of St. John Chrysostom"
+
+li7.html.tab = "LITURGY - VARIABLES"
+li7.pdf.header = "Divine Liturgy - Variables"
+li7.pdf.cover = "The Divine Liturgy - Variables"
+
+li8.html.tab = "LITURGY OF ST. JAMES"
+li8.pdf.header = "Divine Liturgy of St. James"
+li8.pdf.cover = "The Divine Liturgy of St. James"
+
+li9.html.tab = "HIERARCHICAL LITURGY"
+li9.pdf.header = "Hierarchical Liturgy"
+li9.pdf.cover = "Hierarchical Divine Liturgy"
+
+ma.html.tab = "MATINS"
+ma.pdf.header = "Matins"
+ma.pdf.cover = "The Service of Matins"
+
+ma2.html.tab = "MATINS"
+ma2.pdf.header = "Matins"
+ma2.pdf.cover = "The Service of Matins"
+
+ma3.html.tab = "MATINS"
+ma3.pdf.header = "Matins"
+ma3.pdf.cover = "The Service of Matins"
+
+ma4.html.tab = "MATINS"
+ma4.pdf.header = "Matins"
+ma4.pdf.cover = "The Service of Matins"
+
+ma5.html.tab = "MATINS"
+ma5.pdf.header = "Matins"
+ma5.pdf.cover = "The Service of Matins"
+
+mo.html.tab = "MIDNIGHT OFFICE"
+mo.pdf.header = "Midnight Office"
+mo.pdf.cover = "The Midnight Office"
+
+mo1.html.tab = "DAILY TYPIKON"
+mo1.pdf.header = "Daily Typikon"
+mo1.pdf.cover = "Daily Typikon"
+
+mo6.html.tab = "MIDNIGHT OFFICE OF PASCHA"
+mo6.pdf.header = "Midnight Office of Pascha"
+mo6.pdf.cover = "The Midnight Office of Pascha"
+
+pl.html.tab = "PRESANCTIFIED"
+pl.pdf.header = "Presanctified Liturgy"
+pl.pdf.cover = "Presanctified Liturgy"
+
+sp.html.tab = "PARAKLESIS"
+sp.pdf.header = "Small Paraklesis"
+sp.pdf.cover = "Service of the Small Paraklesis"
+
+sv.html.tab = "SMALL VESPERS"
+sv.pdf.header = "Small Vespers"
+sv.pdf.cover = "The Service of Small Vespers"
+
+sv3.html.tab = "SMALL VESPERS AND PRESANCTIFIED"
+sv3.pdf.header = "Small Vespers and Presanctified Liturgy"
+sv3.pdf.cover = "The Service of Small Vespers and Presanctified Liturgy"
+
+ve.html.tab = "VESPERS"
+ve.pdf.header = "Vespers"
+ve.pdf.cover = "The Service of Vespers"
+
+ve2.html.tab = "VESPERS"
+ve2.pdf.header = "Vespers"
+ve2.pdf.cover = "The Service of Vespers"
+
+ve3.html.tab = "GREAT VESPERS AND SALUTATIONS"
+ve3.pdf.header = "Great Vespers and Salutations"
+ve3.pdf.cover = "The Service of Great Vespers and Salutations"
+
+ve4.html.tab = "VESPERS"
+ve4.pdf.header = "Vespers"
+ve4.pdf.cover = "The Service of Vespers"
+
+ve5.html.tab = "VESPERS"
+ve5.pdf.header = "Vespers"
+ve5.pdf.cover = "The Service of Vespers"
+
+vl.html.tab = "VESPERAL LITURGY OF ST. BASIL"
+vl.pdf.header = "Vesperal Liturgy of St. Basil"
+vl.pdf.cover = "Vesperal Liturgy"
+vl.pdf.cover2 = "of St. Basil the Great"
+
+vl2.html.tab = "VESPERAL LITURGY OF ST. JOHN CHRYSOSTOM"
+vl2.pdf.header = "Vesperal Liturgy of St. John Chrysostom"
+vl2.pdf.cover = "Vesperal Liturgy"
+vl2.pdf.cover2 = "of St. John Chrysostom"
+
+//other
+d = "DAY"
+d.delimiter = " -"
+d.for = "for"
+d.of = " of"
+d.on = " on"
+d.ontheeveof = " on the eve of"
+d.onSundayMorning = "on Sunday Morning"
+d.onSundayEvening = "on Sunday Evening"
+d.onMondayMorning = "on Monday Morning"
+d.onMondayEvening = "on Monday Evening"
+d.onTuesdayMorning = "on Tuesday Morning"
+d.onTuesdayEvening = "on Tuesday Evening"
+d.onWednesdayMorning = "on Wednesday Morning"
+d.onWednesdayEvening = "on Wednesday Evening"
+d.onThursdayMorning = "on Thursday Morning"
+d.onThursdayEvening = "on Thursday Evening"
+d.onFridayMorning = "on Friday Morning"
+d.onFridayAfternoon = "on Friday Afternoon"
+d.onFridayEvening = "on Friday Evening"
+d.onSaturdayMorning = "on Saturday Morning"
+d.onSaturdayEvening = "on Saturday Evening"
+
+me.SundayAfterFeast = "Sunday after the Feast"
+
+me.m01.d06.onEpiphanyEve = "on the Eve of Epiphany"
+me.m12.d25.onChristmasEve = "on Christmas Eve"
+
+m.month = "MONTH" // I will programatically determine whether to look up the m.month vs m.mode key
+m.mode = "MODE"
+
+//Holy Week
+hw.mergedscores.title = "Holy Week and Pascha Music<br>Merged Scores"
+hw.palmsunday = "Palm Sunday"
+hw.bridegroomservice = "Bridegroom Service"
+hw.passion = "The Twelve Passion Gospels"
+hw.removal = "Removal from the Cross"
+hw.lamentation = "Graveside Lamentation"
+hw.beforeresurrection = "Service before the Resurrection"
+hw.ofholymonday = "of Holy Monday"
+hw.ofholytuesday = "of Holy Tuesday"
+hw.ofholywednesday = "of Holy Wednesday"
+hw.ofholythursday = "of Holy Thursday"
+hw.ofholyfriday = "of Holy Friday"
+hw.ofholysaturday = "of Holy Saturday"
+
+pa.pascha = "Holy Pascha"
+pa.ofpascha = "of Pascha"
+pa.resurrection = "The Resurrection"
+pa.easter = "Easter Sunday"
+pa.agape = "The Agape Vespers Service"
+pa.brightweek = "Bright / Renewal Week"
+pa.ofbrightweek = "of Bright / Renewal Week"
+
+sal.theotokos = "Salutations to the Theotokos"
+
+clps.stichologia.top = "Show Stichologia"
+clps.stichologia.bottom = "Hide Stichologia"
+clps.additionallitanies.top = "Show Litanies"
+clps.additionallitanies.bottom = "Hide Litanies"
+clps.additionalpetitions.top = "Show Petitions"
+clps.additionalpetitions.bottom = "Hide Petitions"
+clps.alternative.top = "Show Alternative"
+clps.alternative.bottom = "Hide Alternative"
+clps.matinsordinary.top = "Show Matins Ordinary"
+clps.matinsordinary.bottom = "Hide Matins Ordinary"
+clps.prayers.top = "Show Prayers"
+clps.prayers.bottom = "Hide Prayers"
+clps.precommunionprayers.top = "Show Pre-Communion Prayers"
+clps.precommunionprayers.bottom = "Hide Pre-Communion Prayers"
+clps.lity.top = "Show Lity."
+clps.lity.bottom = "Hide Lity."
+clps.selectedverses.top = "Show Selected Verses."
+clps.selectedverses.bottom = "Hide Selected Verses."
+clps.typikon.top = "Show Typikon"
+clps.typikon.bottom = "Hide Typikon"
