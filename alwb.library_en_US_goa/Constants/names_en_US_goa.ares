@@ -60,6 +60,11 @@ name.george.consecration.greatlitany.finalpetition.name = "and St. George," //(a
 name.haralambos.relic1or2.name = "the holy and glorious hieromartyr Haralambos the Wonderworker,"
 name.haralambos.relic3.name = "and the holy and glorious hieromartyr Haralambos the Wonderworker,"
 
+name.holytrinity.localchurch.title = "Of Pentecost."
+name.holytrinity.conVE.SticBoth.churchname.text = "of the Holy Trinity,"
+name.holytrinity.consecration.name = "of the Holy Trinity,"
+name.holytrinity.consecration.prayer1 = "of the Holy Trinity,"
+
 name.marina.relic1or2.name = "the holy Great-martyr Marina,"
 name.marina.relic3.name = "and the holy Great-martyr Marina,"
 
