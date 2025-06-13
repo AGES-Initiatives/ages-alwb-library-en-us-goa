@@ -66,6 +66,14 @@ name.holytrinity.conVE.SticBoth.churchname.text = "of the Holy Trinity,"
 name.holytrinity.consecration.name = "of the Holy Trinity,"
 name.holytrinity.consecration.prayer1 = "of the Holy Trinity,"
 
+name.iakovos.localsaint1.supplication = "the holy Apostle Iakovos the Brother of the Lord,"
+name.iakovos.localsaint1.dismissal = "of the holy Apostle Iakovos the Brother of the Lord,"
+name.iakovos.localchurch.title = "For St. Iakovos."
+name.iakovos.conVE.SticBoth.churchname.text = "of St. Iakovos,"
+name.iakovos.consecration.name = "the holy Apostle Iakovos the Brother of the Lord,"
+name.iakovos.consecration.prayer1 = "the holy Apostle Iakovos the Brother of the Lord,"
+name.iakovos.consecration.greatlitany.finalpetition.name = "and St. Iakovos,"
+
 name.marina.relic1or2.name = "the holy Great-martyr Marina,"
 name.marina.relic3.name = "and the holy Great-martyr Marina,"
 
