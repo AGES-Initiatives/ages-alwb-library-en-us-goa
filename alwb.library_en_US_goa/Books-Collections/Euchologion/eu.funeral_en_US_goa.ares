@@ -17,7 +17,9 @@ euFUN.Key0104.incipit = "You the only pure and…"
 euFUN.Key0104.text = "You the only pure and spotless Virgin, who ineffably gave birth to God, intercede for mercy and forgiveness of the soul of your servant(s)."
 
 euFUN.Key0105.text = "O God of spirits and of all flesh, You trampled upon death and abolished the power of the devil, giving life to Your world. Give rest to the soul(s) of Your departed servant(s) (name) in a place of light, in a place of green pasture, in a place of refreshment, from where pain, sorrow, and sighing have fled away. As good and benevolent God, forgive every sin he (she, they) has (have) committed in word, deed, or thought, for there is no one who lives and does not sin. You alone are without sin. Your righteousness is an everlasting righteousness, and Your word is truth."
+euFUN.Key0105p.text = "O God of spirits and of all flesh, You trampled upon death and abolished the power of the devil, giving life to Your world. Give rest to the soul of Your departed servant (name) the priest, our brother and concelebrant, in a place of light, in a place of green pasture, in a place of refreshment, from where pain, sorrow, and sighing have fled away. As good and benevolent God, forgive every sin he has committed in word, deed, or thought, for there is no one who lives and does not sin. You alone are without sin. Your righteousness is an everlasting righteousness, and Your word is truth."
 euFUN.Key0106.text = "For You are the resurrection, the life, and the repose of Your departed servant(s) (name), Christ our God, and to You we offer up glory, and to Your Father, who is without beginning, and Your all-holy, good, and life-creating Spirit, now and ever and to the ages of ages."
+euFUN.Key0106p.text = "For You are the resurrection, the life, and the repose of Your departed servant (name) the priest, our brother and concelebrant, Christ our God, and to You we offer up glory, and to Your Father, who is without beginning, and Your all-holy, good, and life-creating Spirit, now and ever and to the ages of ages."
 euFUN.Key0107.text = "Eternal be your memory, brother worthy of blessedness and everlasting memory."
 euFUN.Key0108.text = "Eternal be your memory, sister worthy of blessedness and everlasting memory."
 euFUN.Key0109.text = "Eternal be your memory, brethren worthy of blessedness and everlasting memory."
@@ -26,6 +28,7 @@ euFUN.Key0111.text = prayers_en_US_goa.pr.res15.text
 euFUN.Key0112.text = prayers_en_US_goa.pr.res16.text
 
 euFUN.Key0200.title = "The Funeral"
+euFUN.R21 = "In some instances, the clergy will lead, assist, or replace the chanters in singing the hymns of the funeral service."
 
 euFUN.Key0300.title = 
 euFUN.Key0300.mode = 
@@ -55,6 +58,8 @@ euFUN.Key0605.text = ho.ho03_en_US_goa.hoMA.FuneralEvlog7.text
 euFUN.Key0606.incipit = ho.ho03_en_US_goa.hoMA.FuneralEvlog8.incipit
 euFUN.Key0606.text = ho.ho03_en_US_goa.hoMA.FuneralEvlog8.text
 euFUN.Key0607.text = ho.ho03_en_US_goa.hoMA.FuneralEvlog9.text
+
+euFUN.R061 = "If more than three Priests are serving, at the end of each Troparion the Deacon says, “Let us pray to the Lord,” and in the order of seniority, the Priests who have not yet said an exclamation, say, “For You are the resurrection…”; i.e. after as many Troparia as there are Priests."
 
 euFUN.Key0700.title = 
 euFUN.Key0700.mode = miscellanea_en_US_goa.misc.Mode8
@@ -171,8 +176,8 @@ euFUN.Key1200.title =
 euFUN.Key1300.title = 
 euFUN.Key1301.text = 
 euFUN.Key1302.text = 
-euFUN.Key1303.title = 
-euFUN.Key1303.text = 
+euFUN.Key1303.title = "PRAYER FOR A REPOSED PRIEST"
+euFUN.Key1303.text = "Lord our God, we thank You. Yours alone is immortal life. Your glory is inconceivable. Your mercy is immense. Your benevolence is ineffable. Your kingdom has no end. With You there is no favoritism. Of all people You require the same inevitability, when the time of their life has expired. And so we entreat You, O Lord our God: To Your servant (name) the priest, our brother and concelebrant, who has fallen asleep in hopes of rising again to eternal life, grant repose in the bosom of Abraham, Isaac, and Jacob. You ordained him a liturgist in Your Church on earth: may he likewise serve at Your celestial altar, O Lord. You adorned him with this spiritual office among men: accept him now in Your glory among Angels uncondemned. You made his life on earth to have glory: make his exit from life the entry of Your holy ones. And number his spirit with all those who from time immemorial have pleased You."
 
 euFUN.Key1400.title = 
 euFUN.Key1401.text = 
@@ -183,5 +188,6 @@ euFUN.Key1405.text = "of the holy and glorious forefathers Abraham, Isaac, and J
 euFUN.Key1406.text = "of His holy and righteous friend Lazarus, who lay in the grave four days,"
 euFUN.Key1407.text = ""
 euFUN.Key1408.text = "establish the soul(s) of His departed servant(s) (name) in the dwelling place of the saints, give rest to him (her, them) in the bosom of Abraham, and number him (her, them) among the righteous, and also have mercy on us and save us, as He is good and benevolent."
+euFUN.Key1408p.text = "establish the soul of His departed servant (name) the priest, our brother and concelebrant, in the dwelling place of the saints, give rest to him in the bosom of Abraham, and number him among the righteous, and also have mercy on us and save us, as He is good and benevolent."
 
 euFUN.Key1500.title = "Memorial Service"
