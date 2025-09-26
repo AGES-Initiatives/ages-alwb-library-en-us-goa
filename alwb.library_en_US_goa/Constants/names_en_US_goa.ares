@@ -26,6 +26,14 @@ name.constantine.localsaint1.supplication = "the holy, glorious, great, God-crow
 name.constantine.localsaint1.dismissal = "of the holy, glorious, great, God-crowned Sovereigns Constantine and Helen, the Equals to the Apostles,"
 name.constantine.localchurch.title = "For St. Constantine."
 
+name.cosmasdamian.localsaint1.supplication = "the holy Unmercenaries Cosmas and Damian,"
+name.cosmasdamian.localsaint1.dismissal = "of the holy Unmercenaries Cosmas and Damian,"
+name.cosmasdamian.localchurch.title = "For the Holy Unmercenaries."
+name.cosmasdamian.conVE.SticBoth.churchname.text = "of the holy Unmercenaries Cosmas and Damian,"
+name.cosmasdamian.consecration.name = "the holy Unmercenaries Cosmas and Damian,"
+name.cosmasdamian.consecration.prayer1 = "the holy Unmercenaries Cosmas and Damian."
+name.cosmasdamian.consecration.greatlitany.finalpetition.name = "and the holy Unmercenaries Cosmas and Damian,"
+
 name.demetrios.localsaint1.supplication = ""
 name.demetrios.localsaint1.dismissal = "of the holy and glorious Great-martyr Demetrios, the Myrrh-streamer,"
 name.demetrios.localchurch.title = "For St. Demetrios."
