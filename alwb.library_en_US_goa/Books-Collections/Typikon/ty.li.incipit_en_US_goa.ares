@@ -96,8 +96,8 @@ tyLIin.EntranceHymn.title = "Entrance Hymn"
 tyLIin.EntranceHymn.text = "Come, let us worship and bow down before Christ."
 tyLIin.EntranceHymn1.text = "Come, let us worship…"
 tyLIin.Antiphon21.text = "Save us, O Son of God,"
-tyLIin.EntranceHymn2s.text = "risen from the dead."
-tyLIin.EntranceHymn2w.text = "Who are wondrous in the saints."
+tyLIin.EntranceHymn2s.text = "risen from the dead…"
+tyLIin.EntranceHymn2w.text = "who are wondrous in the saints…"
 tyLIin.Antiphon22.text = "We sing to You, Alleluia."
 
 tyLIin.ApApostle.title = "Ap. of Apostle."
@@ -394,6 +394,8 @@ tyLIin.aftercommunion.holythursday.text = "O Son of God, receive me today…"
 tyLIin.aftercommunion.holysaturday.text = 
 
 tyLIin.dismissal.title = "Dismissal:"
+tyLIin.dismissal.resurrection = "May He who rose from the dead…"
+tyLIin.dismissal.andresurrection = "and rose from the dead…"
 
 //Vesperal Liturgies
 

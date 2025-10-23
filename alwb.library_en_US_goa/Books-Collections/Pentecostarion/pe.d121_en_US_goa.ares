@@ -13,6 +13,7 @@ A_Resource_Whose_Name = pe.d121_en_US_goa
 //peHO.note1 = 
 //peHO.note2 = 
 peDA.dismissal = dismissals_en_US_goa.dis00.pentecost
+peDA.dismissal.incipit = dismissals_en_US_goa.dis00.pentecost.incipit
 
 pePE.Prayer1.rubric = "As the faithful kneel, the Priest, also kneeling at the Royal Doors and facing the people, reads the first Prayers aloud."
 pePE.Prayer1.title = "Prayer 1"
