@@ -12,6 +12,7 @@ name.sample.relic1.name = "(like relic1or2, when group of saints is divided into
 name.sample.relic2.name = "(like relic1or2, when group of saints is divided into three)"
 name.sample.relic3.name = "(\"and\" full name of saint and comma)"
 
+name.NA.localchurch.title = ""
 name.NA.localsaint1.supplication = ""
 name.NA.localsaint1.dismissal = ""
 name.NA.consecration.greatlitany.finalpetition.name = ""
@@ -74,6 +75,11 @@ name.george.consecration.greatlitany.finalpetition.name = "and St. George," //(a
 
 name.haralambos.relic1or2.name = "the holy and glorious hieromartyr Haralambos the Wonderworker,"
 name.haralambos.relic3.name = "and the holy and glorious hieromartyr Haralambos the Wonderworker,"
+
+name.holycross.localchurch.title = "For the Holy Cross."
+name.holycross.conVE.SticBoth.churchname.text = "of the Holy Cross,"
+name.holycross.consecration.name = "of the Holy Cross,"
+name.holycross.consecration.prayer1 = "of the Holy Cross,"
 
 name.holytrinity.localchurch.title = "Of Pentecost."
 name.holytrinity.conVE.SticBoth.churchname.text = "of the Holy Trinity,"
