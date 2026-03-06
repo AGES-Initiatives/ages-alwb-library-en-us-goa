@@ -295,8 +295,8 @@ tySAN.consecration.greatlitany.finalpetition.name = names_en_US_goa.name.sample.
 tySAN.relic1.name = names_en_US_goa.name.sample.relic1.name
 tySAN.relic2.name = names_en_US_goa.name.sample.relic2.name
 tySAN.relic3.name = names_en_US_goa.name.sample.relic3.name
-tySAN.ordinand.deacon.acc.text = ""
-tySAN.ordinand.deacon.gen.text = ""
+tySAN.ordinand.deacon.acc.text = "Basil"
+tySAN.ordinand.deacon.gen.text = "Basil"
 tySAN.ordinand.priest.acc.text = ""
 tySAN.ordinand.priest.gen.text = ""
 
